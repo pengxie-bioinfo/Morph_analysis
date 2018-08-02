@@ -10,7 +10,7 @@ for cell_name in $(find ${swc_path}/*swc | awk -F "/" '{print $9}'|awk -F "_" '{
 do
 cell_no=$(echo ${cell_name} | sed 's/^0*//g')
 # 1. Prepare SWC file
-awk -v x=${component_no} '{if($2==x)print $0}' $(find ${swc_path}/${cell_name}*swc) >${cell_type}_${cell_name}.${component_name}.swc
+awk -v x=${component_no} '{if($2==x)print $0}' $(find ${swc_path}/${cell_name}*swc |awk '{if(NR==1)print $1}') >${cell_type}_${cell_name}.${component_name}.swc
 awk -F "," -v x=${cell_no} '{if($3==x)print $0}' ${soma_path} >${cell_type}_${cell_name}.${component_name}.apo
 /home/penglab/Desktop/vaa3d/v3d_external/bin/vaa3d -x sort_neuron_swc_lmg -f sort_swc_lmg -i ${cell_type}_${cell_name}.${component_name}.swc -o ${cell_type}_${cell_name}.${component_name}.sorted.swc -p 1000
 
@@ -29,7 +29,7 @@ echo -e "${cell_name}\n${cell_type}" >${cell_type}_${cell_name}.${component_name
 if [ ! -f "temp" ]; then cp feature.names temp; fi
 if [ $(wc -l ${cell_type}_${cell_name}.${component_name}.features|awk '{print $1}') -gt 2 ];then paste temp ${cell_type}_${cell_name}.${component_name}.features > temp.shadow;fi
 mv temp.shadow temp;
-rm ${cell_type}_${cell_name}*
+#rm ${cell_type}_${cell_name}*
 done
 
 mv temp ${cell_type}.features
