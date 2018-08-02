@@ -33,5 +33,5 @@ do
 	mv temp.shadow temp;
 done
 rm -r temp_dir
-mv temp ${cell_type}.features
+mv temp ${brain_name}_${cell_type}.${component_name}.features
 
