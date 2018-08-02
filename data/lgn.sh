@@ -6,7 +6,7 @@ swc_path=$(echo "/home/penglab/Documents/SEUAllenJointDataCenter/finished_annota
 soma_path="/home/penglab/Documents/SEUAllenJointDataCenter/finished_annotations/124_somas_markers/somas.ano.apo"
 
 if [ -f "temp" ]; then rm temp; fi
-for cell_name in $(find ${swc_path}/*swc | awk -F "/" '{print $9}'|awk -F "_" '{print $1}')
+for cell_name in $(find ${swc_path}/*swc | awk -F "/" '{print $9}'|awk -F "_" '{print $1}'|sort -u)
 do
 cell_no=$(echo ${cell_name} | sed 's/^0*//g')
 # 1. Prepare SWC file
