@@ -1,0 +1,2971 @@
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_001.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_001.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_001.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	9
+
+Component	0
+# Nodes:	64
+Operation: kept but not connected.	Distance:	87440.4
+
+Component	1
+# Nodes:	486
+Operation: Connected to soma.	Distance:	474
+
+Component	2
+# Nodes:	460
+Operation: Connected to soma.	Distance:	876.949
+
+Component	3
+# Nodes:	747
+Operation: Connected to soma.	Distance:	1005
+
+Component	4
+# Nodes:	212
+Operation: Connected to soma.	Distance:	324.574
+
+Component	5
+# Nodes:	293
+Operation: Connected to soma.	Distance:	171.014
+
+Component	6
+# Nodes:	116
+Operation: Connected to soma.	Distance:	569
+
+Component	7
+# Nodes:	168
+Operation: Connected to soma.	Distance:	755
+
+Component	8
+# Nodes:	106
+Operation: kept but not connected.	Distance:	25681
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_001.dendrite.sorted.apo
+170
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_001.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_002.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_002.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_002.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	267
+Operation: kept but not connected.	Distance:	12395.4
+
+Component	1
+# Nodes:	868
+Operation: Connected to soma.	Distance:	608
+
+Component	2
+# Nodes:	420
+Operation: Connected to soma.	Distance:	545
+
+Component	3
+# Nodes:	177
+Operation: kept but not connected.	Distance:	8084
+
+Component	4
+# Nodes:	660
+Operation: Connected to soma.	Distance:	830
+
+Component	5
+# Nodes:	223
+Operation: kept but not connected.	Distance:	44450.7
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_002.dendrite.sorted.apo
+667
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_002.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_003.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_003.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_003.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	12
+
+Component	0
+# Nodes:	219
+Operation: Connected to soma.	Distance:	659.969
+
+Component	1
+# Nodes:	230
+Operation: Connected to soma.	Distance:	539
+
+Component	2
+# Nodes:	217
+Operation: Connected to soma.	Distance:	569
+
+Component	3
+# Nodes:	123
+Operation: kept but not connected.	Distance:	18629
+
+Component	4
+# Nodes:	1
+Operation: kept but not connected.	Distance:	416055
+
+Component	5
+# Nodes:	344
+Operation: Connected to soma.	Distance:	990
+
+Component	6
+# Nodes:	423
+Operation: Connected to soma.	Distance:	123.629
+
+Component	7
+# Nodes:	222
+Operation: Connected to soma.	Distance:	30.057
+
+Component	8
+# Nodes:	50
+Operation: kept but not connected.	Distance:	7716.63
+
+Component	9
+# Nodes:	45
+Operation: kept but not connected.	Distance:	20032.9
+
+Component	10
+# Nodes:	26
+Operation: kept but not connected.	Distance:	18311.2
+
+Component	11
+# Nodes:	41
+Operation: kept but not connected.	Distance:	97071.4
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_003.dendrite.sorted.apo
+286
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_003.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_004.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_004.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_004.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	1085
+Operation: Connected to soma.	Distance:	1480.96
+
+Component	1
+# Nodes:	368
+Operation: kept but not connected.	Distance:	11152.5
+
+Component	2
+# Nodes:	2
+Operation: kept but not connected.	Distance:	148629
+
+Component	3
+# Nodes:	28
+Operation: kept but not connected.	Distance:	181762
+
+Component	4
+# Nodes:	98
+Operation: kept but not connected.	Distance:	6853
+
+Component	5
+# Nodes:	620
+Operation: Connected to soma.	Distance:	3.21995
+
+Component	6
+# Nodes:	124
+Operation: kept but not connected.	Distance:	2570.53
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_004.dendrite.sorted.apo
+620
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_004.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_005.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_005.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_005.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	377
+Operation: Connected to soma.	Distance:	615.061
+
+Component	1
+# Nodes:	683
+Operation: Connected to soma.	Distance:	265.044
+
+Component	2
+# Nodes:	433
+Operation: Connected to soma.	Distance:	741
+
+Component	3
+# Nodes:	420
+Operation: Connected to soma.	Distance:	1154.91
+
+Component	4
+# Nodes:	570
+Operation: Connected to soma.	Distance:	1202
+
+Component	5
+# Nodes:	109
+Operation: kept but not connected.	Distance:	4626
+
+Component	6
+# Nodes:	51
+Operation: kept but not connected.	Distance:	23812.1
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_005.dendrite.sorted.apo
+160
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_005.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_006.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_006.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_006.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	11
+
+Component	0
+# Nodes:	70
+Operation: kept but not connected.	Distance:	9113.69
+
+Component	1
+# Nodes:	871
+Operation: Connected to soma.	Distance:	1261
+
+Component	2
+# Nodes:	740
+Operation: Connected to soma.	Distance:	776
+
+Component	3
+# Nodes:	593
+Operation: Connected to soma.	Distance:	1394
+
+Component	4
+# Nodes:	87
+Operation: kept but not connected.	Distance:	10491.3
+
+Component	5
+# Nodes:	1
+Operation: kept but not connected.	Distance:	8268.25
+
+Component	6
+# Nodes:	1
+Operation: kept but not connected.	Distance:	5535.61
+
+Component	7
+# Nodes:	1
+Operation: kept but not connected.	Distance:	6135.9
+
+Component	8
+# Nodes:	465
+Operation: kept but not connected.	Distance:	2619.03
+
+Component	9
+# Nodes:	5
+Operation: kept but not connected.	Distance:	14091.4
+
+Component	10
+# Nodes:	195
+Operation: Connected to soma.	Distance:	467
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_006.dendrite.sorted.apo
+630
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_006.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_007.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_007.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_007.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	272
+Operation: Connected to soma.	Distance:	650
+
+Component	1
+# Nodes:	810
+Operation: Connected to soma.	Distance:	414
+
+Component	2
+# Nodes:	366
+Operation: Connected to soma.	Distance:	881
+
+Component	3
+# Nodes:	231
+Operation: Connected to soma.	Distance:	152
+
+Component	4
+# Nodes:	347
+Operation: Connected to soma.	Distance:	803
+
+Component	5
+# Nodes:	58
+Operation: kept but not connected.	Distance:	38554
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_007.dendrite.sorted.apo
+58
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_007.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_008.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_008.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_008.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	964
+Operation: Connected to soma.	Distance:	376
+
+Component	1
+# Nodes:	271
+Operation: Connected to soma.	Distance:	724.097
+
+Component	2
+# Nodes:	124
+Operation: Connected to soma.	Distance:	140
+
+Component	3
+# Nodes:	126
+Operation: Connected to soma.	Distance:	346
+
+Component	4
+# Nodes:	359
+Operation: Connected to soma.	Distance:	642.849
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_008.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_008.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_009.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_009.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_009.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	954
+Operation: Connected to soma.	Distance:	227
+
+Component	1
+# Nodes:	1266
+Operation: Connected to soma.	Distance:	468.398
+
+Component	2
+# Nodes:	1131
+Operation: Connected to soma.	Distance:	627.567
+
+Component	3
+# Nodes:	1
+Operation: kept but not connected.	Distance:	61991.9
+
+Component	4
+# Nodes:	1
+Operation: kept but not connected.	Distance:	127237
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_009.dendrite.sorted.apo
+2
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_009.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_010.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_010.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_010.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	4
+
+Component	0
+# Nodes:	524
+Operation: Connected to soma.	Distance:	822.849
+
+Component	1
+# Nodes:	940
+Operation: Connected to soma.	Distance:	811.841
+
+Component	2
+# Nodes:	490
+Operation: Connected to soma.	Distance:	932.097
+
+Component	3
+# Nodes:	454
+Operation: Connected to soma.	Distance:	802.593
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_010.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_010.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_011.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_011.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_011.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	638
+Operation: Connected to soma.	Distance:	492.03
+
+Component	1
+# Nodes:	863
+Operation: Connected to soma.	Distance:	661.414
+
+Component	2
+# Nodes:	633
+Operation: Connected to soma.	Distance:	462
+
+Component	3
+# Nodes:	61
+Operation: Connected to soma.	Distance:	494
+
+Component	4
+# Nodes:	516
+Operation: Connected to soma.	Distance:	446
+
+Component	5
+# Nodes:	19
+Operation: kept but not connected.	Distance:	81195
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_011.dendrite.sorted.apo
+19
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_011.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_012.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_012.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_012.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	1087
+Operation: Connected to soma.	Distance:	711.211
+
+Component	1
+# Nodes:	1538
+Operation: Connected to soma.	Distance:	102.803
+
+Component	2
+# Nodes:	1080
+Operation: Connected to soma.	Distance:	730.256
+
+Component	3
+# Nodes:	305
+Operation: Connected to soma.	Distance:	336.03
+
+Component	4
+# Nodes:	6
+Operation: kept but not connected.	Distance:	7123
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_012.dendrite.sorted.apo
+6
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_012.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_013.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_013.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_013.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	506
+Operation: Connected to soma.	Distance:	826
+
+Component	1
+# Nodes:	811
+Operation: Connected to soma.	Distance:	351.922
+
+Component	2
+# Nodes:	756
+Operation: Connected to soma.	Distance:	1860
+
+Component	3
+# Nodes:	88
+Operation: Connected to soma.	Distance:	1313
+
+Component	4
+# Nodes:	44
+Operation: kept but not connected.	Distance:	12946
+
+Component	5
+# Nodes:	275
+Operation: kept but not connected.	Distance:	7792.93
+
+Component	6
+# Nodes:	901
+Operation: Connected to soma.	Distance:	257
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_013.dendrite.sorted.apo
+319
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_013.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_014.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_014.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_014.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	2
+
+Component	0
+# Nodes:	9
+Operation: kept but not connected.	Distance:	124057
+
+Component	1
+# Nodes:	29
+Operation: kept but not connected.	Distance:	23914.2
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_014.dendrite.sorted.apo
+38
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_014.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_015.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_015.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_015.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	1004
+Operation: Connected to soma.	Distance:	81
+
+Component	1
+# Nodes:	221
+Operation: Connected to soma.	Distance:	276
+
+Component	2
+# Nodes:	180
+Operation: Connected to soma.	Distance:	385
+
+Component	3
+# Nodes:	1036
+Operation: Connected to soma.	Distance:	542.262
+
+Component	4
+# Nodes:	179
+Operation: Connected to soma.	Distance:	448.108
+
+Component	5
+# Nodes:	331
+Operation: Connected to soma.	Distance:	362.843
+
+Component	6
+# Nodes:	180
+Operation: Connected to soma.	Distance:	645.418
+
+Component	7
+# Nodes:	147
+Operation: Connected to soma.	Distance:	338.922
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_015.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_015.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_016.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_016.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_016.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	384
+Operation: Connected to soma.	Distance:	1524.57
+
+Component	1
+# Nodes:	368
+Operation: Connected to soma.	Distance:	661.58
+
+Component	2
+# Nodes:	851
+Operation: Connected to soma.	Distance:	482
+
+Component	3
+# Nodes:	153
+Operation: Connected to soma.	Distance:	1326
+
+Component	4
+# Nodes:	299
+Operation: Connected to soma.	Distance:	190
+
+Component	5
+# Nodes:	2
+Operation: kept but not connected.	Distance:	33642
+
+Component	6
+# Nodes:	15
+Operation: Connected to soma.	Distance:	477
+
+Component	7
+# Nodes:	5
+Operation: kept but not connected.	Distance:	299156
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_016.dendrite.sorted.apo
+7
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_016.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_017.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_017.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_017.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	14
+
+Component	0
+# Nodes:	563
+Operation: Connected to soma.	Distance:	1591.22
+
+Component	1
+# Nodes:	815
+Operation: Connected to soma.	Distance:	541
+
+Component	2
+# Nodes:	114
+Operation: Connected to soma.	Distance:	1021
+
+Component	3
+# Nodes:	109
+Operation: kept but not connected.	Distance:	21337.5
+
+Component	4
+# Nodes:	101
+Operation: kept but not connected.	Distance:	2146
+
+Component	5
+# Nodes:	142
+Operation: Connected to soma.	Distance:	578
+
+Component	6
+# Nodes:	288
+Operation: Connected to soma.	Distance:	1983.25
+
+Component	7
+# Nodes:	143
+Operation: Connected to soma.	Distance:	798
+
+Component	8
+# Nodes:	422
+Operation: kept but not connected.	Distance:	2098
+
+Component	9
+# Nodes:	90
+Operation: Connected to soma.	Distance:	296
+
+Component	10
+# Nodes:	122
+Operation: kept but not connected.	Distance:	2458
+
+Component	11
+# Nodes:	261
+Operation: kept but not connected.	Distance:	9862
+
+Component	12
+# Nodes:	20
+Operation: kept but not connected.	Distance:	8523.6
+
+Component	13
+# Nodes:	9
+Operation: kept but not connected.	Distance:	66864.5
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_017.dendrite.sorted.apo
+1044
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_017.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_018.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_018.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_018.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	986
+Operation: Deleted!	Distance:	5.24489e+06
+Subtree size:	986
+
+Component	1
+# Nodes:	673
+Operation: Deleted!	Distance:	7.06628e+06
+Subtree size:	673
+
+Component	2
+# Nodes:	625
+Operation: Deleted!	Distance:	4.77424e+06
+Subtree size:	625
+
+Component	3
+# Nodes:	548
+Operation: Deleted!	Distance:	6.82855e+06
+Subtree size:	548
+
+Component	4
+# Nodes:	113
+Operation: Deleted!	Distance:	7.00441e+06
+Subtree size:	113
+
+Component	5
+# Nodes:	137
+Operation: Deleted!	Distance:	7.87471e+06
+Subtree size:	137
+Nodes droped:	3082
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_018.dendrite.sorted.apo
+3082
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_018.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_020.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_020.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_020.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	9
+
+Component	0
+# Nodes:	44
+Operation: Connected to soma.	Distance:	384.659
+
+Component	1
+# Nodes:	452
+Operation: Connected to soma.	Distance:	409.348
+
+Component	2
+# Nodes:	994
+Operation: Connected to soma.	Distance:	469.958
+
+Component	3
+# Nodes:	669
+Operation: Connected to soma.	Distance:	1214.35
+
+Component	4
+# Nodes:	1687
+Operation: Connected to soma.	Distance:	1041.03
+
+Component	5
+# Nodes:	49
+Operation: Connected to soma.	Distance:	941.154
+
+Component	6
+# Nodes:	54
+Operation: Connected to soma.	Distance:	599.582
+
+Component	7
+# Nodes:	1
+Operation: kept but not connected.	Distance:	48327.8
+
+Component	8
+# Nodes:	3
+Operation: kept but not connected.	Distance:	17228
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_020.dendrite.sorted.apo
+4
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_020.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_027.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_027.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_027.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	558
+Operation: Connected to soma.	Distance:	744.939
+
+Component	1
+# Nodes:	506
+Operation: Connected to soma.	Distance:	179
+
+Component	2
+# Nodes:	202
+Operation: kept but not connected.	Distance:	4007.51
+
+Component	3
+# Nodes:	34
+Operation: kept but not connected.	Distance:	16574.1
+
+Component	4
+# Nodes:	370
+Operation: Connected to soma.	Distance:	338
+
+Component	5
+# Nodes:	197
+Operation: Connected to soma.	Distance:	308
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_027.dendrite.sorted.apo
+236
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_027.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_030.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_030.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_030.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	512
+Operation: Connected to soma.	Distance:	1318.01
+
+Component	1
+# Nodes:	111
+Operation: kept but not connected.	Distance:	4238.37
+
+Component	2
+# Nodes:	226
+Operation: Connected to soma.	Distance:	218.699
+
+Component	3
+# Nodes:	144
+Operation: kept but not connected.	Distance:	2791.15
+
+Component	4
+# Nodes:	372
+Operation: Connected to soma.	Distance:	806
+
+Component	5
+# Nodes:	127
+Operation: Connected to soma.	Distance:	1508.14
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_030.dendrite.sorted.apo
+255
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_030.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_031.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_031.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_031.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	3
+
+Component	0
+# Nodes:	2229
+Operation: Connected to soma.	Distance:	771.111
+
+Component	1
+# Nodes:	635
+Operation: Connected to soma.	Distance:	563.378
+
+Component	2
+# Nodes:	298
+Operation: Connected to soma.	Distance:	1881.13
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_031.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_031.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_032.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_032.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_032.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	30
+Operation: kept but not connected.	Distance:	71043.9
+
+Component	1
+# Nodes:	437
+Operation: Connected to soma.	Distance:	94.0168
+
+Component	2
+# Nodes:	583
+Operation: Connected to soma.	Distance:	619.151
+
+Component	3
+# Nodes:	327
+Operation: Connected to soma.	Distance:	1861.09
+
+Component	4
+# Nodes:	277
+Operation: Connected to soma.	Distance:	1401
+
+Component	5
+# Nodes:	421
+Operation: Connected to soma.	Distance:	100.066
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_032.dendrite.sorted.apo
+30
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_032.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_042.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_042.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_042.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	319
+Operation: Connected to soma.	Distance:	569.791
+
+Component	1
+# Nodes:	237
+Operation: kept but not connected.	Distance:	2719.7
+
+Component	2
+# Nodes:	326
+Operation: Connected to soma.	Distance:	852.918
+
+Component	3
+# Nodes:	70
+Operation: Connected to soma.	Distance:	1486.87
+
+Component	4
+# Nodes:	280
+Operation: Connected to soma.	Distance:	389.943
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_042.dendrite.sorted.apo
+237
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_042.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_043.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_043.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_043.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	325
+Operation: Connected to soma.	Distance:	376
+
+Component	1
+# Nodes:	394
+Operation: Connected to soma.	Distance:	204.895
+
+Component	2
+# Nodes:	145
+Operation: Connected to soma.	Distance:	217.414
+
+Component	3
+# Nodes:	158
+Operation: Connected to soma.	Distance:	488
+
+Component	4
+# Nodes:	89
+Operation: Connected to soma.	Distance:	186.718
+
+Component	5
+# Nodes:	299
+Operation: Connected to soma.	Distance:	224
+
+Component	6
+# Nodes:	283
+Operation: Connected to soma.	Distance:	504
+
+Component	7
+# Nodes:	397
+Operation: Connected to soma.	Distance:	119.435
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_043.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_043.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_044.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_044.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_044.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	226
+Operation: Connected to soma.	Distance:	793.846
+
+Component	1
+# Nodes:	67
+Operation: Connected to soma.	Distance:	536
+
+Component	2
+# Nodes:	145
+Operation: Connected to soma.	Distance:	396
+
+Component	3
+# Nodes:	339
+Operation: Connected to soma.	Distance:	439.552
+
+Component	4
+# Nodes:	362
+Operation: Connected to soma.	Distance:	716
+
+Component	5
+# Nodes:	134
+Operation: Connected to soma.	Distance:	480
+
+Component	6
+# Nodes:	188
+Operation: Connected to soma.	Distance:	436
+
+Component	7
+# Nodes:	75
+Operation: Connected to soma.	Distance:	663.985
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_044.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_044.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_045.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_045.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_045.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	12
+
+Component	0
+# Nodes:	140
+Operation: Connected to soma.	Distance:	470.955
+
+Component	1
+# Nodes:	129
+Operation: Connected to soma.	Distance:	262.452
+
+Component	2
+# Nodes:	151
+Operation: Connected to soma.	Distance:	585.827
+
+Component	3
+# Nodes:	31
+Operation: Connected to soma.	Distance:	866.076
+
+Component	4
+# Nodes:	348
+Operation: Connected to soma.	Distance:	503.685
+
+Component	5
+# Nodes:	37
+Operation: kept but not connected.	Distance:	82189.7
+
+Component	6
+# Nodes:	4
+Operation: kept but not connected.	Distance:	48367.9
+
+Component	7
+# Nodes:	168
+Operation: Connected to soma.	Distance:	51.0018
+
+Component	8
+# Nodes:	74
+Operation: kept but not connected.	Distance:	10699.1
+
+Component	9
+# Nodes:	17
+Operation: Connected to soma.	Distance:	565.052
+
+Component	10
+# Nodes:	63
+Operation: Connected to soma.	Distance:	1440.92
+
+Component	11
+# Nodes:	54
+Operation: kept but not connected.	Distance:	7984.8
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_045.dendrite.sorted.apo
+169
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_045.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_046.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_046.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_046.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	3
+
+Component	0
+# Nodes:	582
+Operation: Connected to soma.	Distance:	1055.96
+
+Component	1
+# Nodes:	646
+Operation: Connected to soma.	Distance:	520.141
+
+Component	2
+# Nodes:	104
+Operation: Connected to soma.	Distance:	987.248
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_046.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_046.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_050.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_050.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_050.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	4
+
+Component	0
+# Nodes:	266
+Operation: Connected to soma.	Distance:	456.99
+
+Component	1
+# Nodes:	601
+Operation: Connected to soma.	Distance:	657.926
+
+Component	2
+# Nodes:	829
+Operation: kept but not connected.	Distance:	5502.64
+
+Component	3
+# Nodes:	486
+Operation: Connected to soma.	Distance:	583.123
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_050.dendrite.sorted.apo
+829
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_050.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_055.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_055.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_055.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	34
+Operation: kept but not connected.	Distance:	93281.1
+
+Component	1
+# Nodes:	2312
+Operation: Connected to soma.	Distance:	57
+
+Component	2
+# Nodes:	97
+Operation: Connected to soma.	Distance:	221
+
+Component	3
+# Nodes:	80
+Operation: kept but not connected.	Distance:	18613
+
+Component	4
+# Nodes:	7
+Operation: kept but not connected.	Distance:	29470.9
+
+Component	5
+# Nodes:	117
+Operation: kept but not connected.	Distance:	200963
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_055.dendrite.sorted.apo
+238
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_055.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_056.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_056.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_056.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	251
+Operation: kept but not connected.	Distance:	8939.75
+
+Component	1
+# Nodes:	137
+Operation: Connected to soma.	Distance:	13.4553
+
+Component	2
+# Nodes:	999
+Operation: Connected to soma.	Distance:	354
+
+Component	3
+# Nodes:	100
+Operation: Connected to soma.	Distance:	175.754
+
+Component	4
+# Nodes:	362
+Operation: Connected to soma.	Distance:	1226
+
+Component	5
+# Nodes:	232
+Operation: Connected to soma.	Distance:	198.335
+
+Component	6
+# Nodes:	3
+Operation: kept but not connected.	Distance:	136503
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_056.dendrite.sorted.apo
+254
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_056.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_057.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_057.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_057.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	1026
+Operation: Connected to soma.	Distance:	213
+
+Component	1
+# Nodes:	1075
+Operation: Connected to soma.	Distance:	1171.06
+
+Component	2
+# Nodes:	234
+Operation: kept but not connected.	Distance:	2435.39
+
+Component	3
+# Nodes:	322
+Operation: Connected to soma.	Distance:	1106.32
+
+Component	4
+# Nodes:	97
+Operation: Connected to soma.	Distance:	687.258
+
+Component	5
+# Nodes:	119
+Operation: Connected to soma.	Distance:	700.894
+
+Component	6
+# Nodes:	75
+Operation: Connected to soma.	Distance:	906
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_057.dendrite.sorted.apo
+234
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_057.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_062.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_062.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_062.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	471
+Operation: Connected to soma.	Distance:	14
+
+Component	1
+# Nodes:	456
+Operation: Connected to soma.	Distance:	707
+
+Component	2
+# Nodes:	5
+Operation: kept but not connected.	Distance:	957699
+
+Component	3
+# Nodes:	827
+Operation: Connected to soma.	Distance:	203
+
+Component	4
+# Nodes:	167
+Operation: Connected to soma.	Distance:	366
+
+Component	5
+# Nodes:	115
+Operation: kept but not connected.	Distance:	5427.8
+
+Component	6
+# Nodes:	116
+Operation: Connected to soma.	Distance:	629
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_062.dendrite.sorted.apo
+120
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_062.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_063.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_063.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_063.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	20
+
+Component	0
+# Nodes:	148
+Operation: kept but not connected.	Distance:	823400
+
+Component	1
+# Nodes:	46
+Operation: Deleted!	Distance:	1.20398e+06
+Subtree size:	46
+
+Component	2
+# Nodes:	14
+Operation: Deleted!	Distance:	1.32701e+06
+Subtree size:	14
+
+Component	3
+# Nodes:	284
+Operation: kept but not connected.	Distance:	443740
+
+Component	4
+# Nodes:	51
+Operation: Deleted!	Distance:	1.23982e+06
+Subtree size:	51
+
+Component	5
+# Nodes:	22
+Operation: Deleted!	Distance:	1.09607e+06
+Subtree size:	22
+
+Component	6
+# Nodes:	18
+Operation: Deleted!	Distance:	1.24707e+06
+Subtree size:	18
+
+Component	7
+# Nodes:	23
+Operation: Deleted!	Distance:	1.13472e+06
+Subtree size:	23
+
+Component	8
+# Nodes:	9
+Operation: Deleted!	Distance:	1.14925e+06
+Subtree size:	9
+
+Component	9
+# Nodes:	13
+Operation: Deleted!	Distance:	1.0041e+06
+Subtree size:	13
+
+Component	10
+# Nodes:	98
+Operation: kept but not connected.	Distance:	360765
+
+Component	11
+# Nodes:	5
+Operation: Deleted!	Distance:	1.15168e+06
+Subtree size:	5
+
+Component	12
+# Nodes:	2
+Operation: Deleted!	Distance:	1.15265e+06
+Subtree size:	2
+
+Component	13
+# Nodes:	38
+Operation: Deleted!	Distance:	1.02655e+06
+Subtree size:	38
+
+Component	14
+# Nodes:	17
+Operation: kept but not connected.	Distance:	966892
+
+Component	15
+# Nodes:	17
+Operation: kept but not connected.	Distance:	989140
+
+Component	16
+# Nodes:	78
+Operation: kept but not connected.	Distance:	734477
+
+Component	17
+# Nodes:	101
+Operation: kept but not connected.	Distance:	330102
+
+Component	18
+# Nodes:	78
+Operation: kept but not connected.	Distance:	210215
+
+Component	19
+# Nodes:	17
+Operation: kept but not connected.	Distance:	251394
+Nodes droped:	241
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_063.dendrite.sorted.apo
+1079
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_063.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_075.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_075.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_075.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	286
+Operation: Connected to soma.	Distance:	48
+
+Component	1
+# Nodes:	98
+Operation: Connected to soma.	Distance:	452
+
+Component	2
+# Nodes:	211
+Operation: Connected to soma.	Distance:	854
+
+Component	3
+# Nodes:	626
+Operation: Connected to soma.	Distance:	750
+
+Component	4
+# Nodes:	151
+Operation: Connected to soma.	Distance:	781
+
+Component	5
+# Nodes:	144
+Operation: kept but not connected.	Distance:	4045
+
+Component	6
+# Nodes:	90
+Operation: Connected to soma.	Distance:	942.782
+
+Component	7
+# Nodes:	317
+Operation: Connected to soma.	Distance:	945.735
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_075.dendrite.sorted.apo
+144
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_075.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_081.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_081.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_081.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	746
+Operation: Connected to soma.	Distance:	1253
+
+Component	1
+# Nodes:	561
+Operation: Connected to soma.	Distance:	74
+
+Component	2
+# Nodes:	421
+Operation: Connected to soma.	Distance:	251.463
+
+Component	3
+# Nodes:	732
+Operation: Connected to soma.	Distance:	921.207
+
+Component	4
+# Nodes:	67
+Operation: kept but not connected.	Distance:	6211.1
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_081.dendrite.sorted.apo
+67
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_081.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_082.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_082.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_082.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	10
+
+Component	0
+# Nodes:	416
+Operation: Connected to soma.	Distance:	421.716
+
+Component	1
+# Nodes:	217
+Operation: Connected to soma.	Distance:	797.238
+
+Component	2
+# Nodes:	154
+Operation: Connected to soma.	Distance:	99
+
+Component	3
+# Nodes:	181
+Operation: Connected to soma.	Distance:	902
+
+Component	4
+# Nodes:	38
+Operation: kept but not connected.	Distance:	18442.5
+
+Component	5
+# Nodes:	113
+Operation: Connected to soma.	Distance:	1005.63
+
+Component	6
+# Nodes:	176
+Operation: Connected to soma.	Distance:	699
+
+Component	7
+# Nodes:	262
+Operation: Connected to soma.	Distance:	797
+
+Component	8
+# Nodes:	191
+Operation: kept but not connected.	Distance:	2699
+
+Component	9
+# Nodes:	114
+Operation: kept but not connected.	Distance:	8173.92
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_082.dendrite.sorted.apo
+343
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_082.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_083.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_083.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_083.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	37
+Operation: kept but not connected.	Distance:	95490
+
+Component	1
+# Nodes:	601
+Operation: Connected to soma.	Distance:	1291
+
+Component	2
+# Nodes:	528
+Operation: Connected to soma.	Distance:	590
+
+Component	3
+# Nodes:	737
+Operation: Connected to soma.	Distance:	378
+
+Component	4
+# Nodes:	324
+Operation: Connected to soma.	Distance:	110
+
+Component	5
+# Nodes:	260
+Operation: Connected to soma.	Distance:	505.249
+
+Component	6
+# Nodes:	28
+Operation: kept but not connected.	Distance:	11071.9
+
+Component	7
+# Nodes:	266
+Operation: Connected to soma.	Distance:	54
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_083.dendrite.sorted.apo
+65
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_083.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_084.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_084.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_084.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	11
+
+Component	0
+# Nodes:	79
+Operation: kept but not connected.	Distance:	16706
+
+Component	1
+# Nodes:	1071
+Operation: Connected to soma.	Distance:	17.8061
+
+Component	2
+# Nodes:	7
+Operation: kept but not connected.	Distance:	61836.3
+
+Component	3
+# Nodes:	10
+Operation: kept but not connected.	Distance:	40166
+
+Component	4
+# Nodes:	262
+Operation: Connected to soma.	Distance:	494
+
+Component	5
+# Nodes:	141
+Operation: Connected to soma.	Distance:	1310.09
+
+Component	6
+# Nodes:	47
+Operation: kept but not connected.	Distance:	5613.18
+
+Component	7
+# Nodes:	491
+Operation: Connected to soma.	Distance:	923
+
+Component	8
+# Nodes:	155
+Operation: kept but not connected.	Distance:	14771
+
+Component	9
+# Nodes:	33
+Operation: kept but not connected.	Distance:	77620.1
+
+Component	10
+# Nodes:	3
+Operation: Deleted!	Distance:	3.11236e+07
+Subtree size:	3
+Nodes droped:	3
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_084.dendrite.sorted.apo
+334
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_084.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_085.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_085.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_085.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	206
+Operation: Connected to soma.	Distance:	932.101
+
+Component	1
+# Nodes:	357
+Operation: Connected to soma.	Distance:	1131
+
+Component	2
+# Nodes:	838
+Operation: Connected to soma.	Distance:	1105
+
+Component	3
+# Nodes:	286
+Operation: Connected to soma.	Distance:	730.646
+
+Component	4
+# Nodes:	192
+Operation: Connected to soma.	Distance:	750
+
+Component	5
+# Nodes:	202
+Operation: Connected to soma.	Distance:	885
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_085.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_085.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_086.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_086.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_086.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	5
+Operation: kept but not connected.	Distance:	116708
+
+Component	1
+# Nodes:	1129
+Operation: kept but not connected.	Distance:	4640.63
+
+Component	2
+# Nodes:	883
+Operation: Connected to soma.	Distance:	629.335
+
+Component	3
+# Nodes:	92
+Operation: kept but not connected.	Distance:	3302
+
+Component	4
+# Nodes:	1294
+Operation: Connected to soma.	Distance:	739.875
+
+Component	5
+# Nodes:	8
+Operation: kept but not connected.	Distance:	9630.71
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_086.dendrite.sorted.apo
+1234
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_086.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_087.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_087.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_087.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	10
+Operation: Deleted!	Distance:	6.04638e+08
+Subtree size:	10
+
+Component	1
+# Nodes:	22
+Operation: Deleted!	Distance:	5.96096e+08
+Subtree size:	22
+
+Component	2
+# Nodes:	771
+Operation: Connected to soma.	Distance:	417
+
+Component	3
+# Nodes:	499
+Operation: Connected to soma.	Distance:	509
+
+Component	4
+# Nodes:	409
+Operation: Connected to soma.	Distance:	386
+
+Component	5
+# Nodes:	462
+Operation: Connected to soma.	Distance:	629
+
+Component	6
+# Nodes:	1082
+Operation: Connected to soma.	Distance:	609
+
+Component	7
+# Nodes:	70
+Operation: kept but not connected.	Distance:	11639.8
+Nodes droped:	32
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_087.dendrite.sorted.apo
+102
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_087.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_088.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_088.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_088.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	527
+Operation: Connected to soma.	Distance:	173.86
+
+Component	1
+# Nodes:	247
+Operation: Connected to soma.	Distance:	61
+
+Component	2
+# Nodes:	88
+Operation: kept but not connected.	Distance:	16290
+
+Component	3
+# Nodes:	734
+Operation: Connected to soma.	Distance:	682.968
+
+Component	4
+# Nodes:	525
+Operation: Connected to soma.	Distance:	268
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_088.dendrite.sorted.apo
+88
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_088.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_089.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_089.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_089.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	492
+Operation: Connected to soma.	Distance:	669.891
+
+Component	1
+# Nodes:	272
+Operation: Connected to soma.	Distance:	875
+
+Component	2
+# Nodes:	333
+Operation: Connected to soma.	Distance:	502.979
+
+Component	3
+# Nodes:	785
+Operation: Connected to soma.	Distance:	441
+
+Component	4
+# Nodes:	523
+Operation: Connected to soma.	Distance:	594
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_089.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_089.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_091.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_091.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_091.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	594
+Operation: Connected to soma.	Distance:	446
+
+Component	1
+# Nodes:	145
+Operation: Connected to soma.	Distance:	376.99
+
+Component	2
+# Nodes:	552
+Operation: Connected to soma.	Distance:	746
+
+Component	3
+# Nodes:	575
+Operation: Connected to soma.	Distance:	1802.41
+
+Component	4
+# Nodes:	415
+Operation: Connected to soma.	Distance:	508.984
+
+Component	5
+# Nodes:	173
+Operation: Connected to soma.	Distance:	581.514
+
+Component	6
+# Nodes:	192
+Operation: Connected to soma.	Distance:	1145.07
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_091.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_091.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_093.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_093.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_093.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	888
+Operation: Connected to soma.	Distance:	810
+
+Component	1
+# Nodes:	647
+Operation: Connected to soma.	Distance:	1625
+
+Component	2
+# Nodes:	771
+Operation: Connected to soma.	Distance:	1525.64
+
+Component	3
+# Nodes:	993
+Operation: Connected to soma.	Distance:	766
+
+Component	4
+# Nodes:	2
+Operation: kept but not connected.	Distance:	3701.16
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_093.dendrite.sorted.apo
+2
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_093.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_096.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_096.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_096.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	13
+
+Component	0
+# Nodes:	53
+Operation: kept but not connected.	Distance:	352650
+
+Component	1
+# Nodes:	88
+Operation: kept but not connected.	Distance:	359448
+
+Component	2
+# Nodes:	291
+Operation: Connected to soma.	Distance:	360.069
+
+Component	3
+# Nodes:	140
+Operation: Connected to soma.	Distance:	557.451
+
+Component	4
+# Nodes:	42
+Operation: kept but not connected.	Distance:	71140.1
+
+Component	5
+# Nodes:	266
+Operation: Connected to soma.	Distance:	244.925
+
+Component	6
+# Nodes:	148
+Operation: kept but not connected.	Distance:	3515.82
+
+Component	7
+# Nodes:	255
+Operation: Connected to soma.	Distance:	457.121
+
+Component	8
+# Nodes:	34
+Operation: kept but not connected.	Distance:	9367.91
+
+Component	9
+# Nodes:	21
+Operation: kept but not connected.	Distance:	21301.8
+
+Component	10
+# Nodes:	52
+Operation: kept but not connected.	Distance:	72757.8
+
+Component	11
+# Nodes:	42
+Operation: kept but not connected.	Distance:	75490.5
+
+Component	12
+# Nodes:	72
+Operation: kept but not connected.	Distance:	65307.4
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_096.dendrite.sorted.apo
+552
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_096.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_097.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_097.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_097.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	5
+
+Component	0
+# Nodes:	886
+Operation: Connected to soma.	Distance:	579
+
+Component	1
+# Nodes:	320
+Operation: Connected to soma.	Distance:	718
+
+Component	2
+# Nodes:	713
+Operation: Connected to soma.	Distance:	98.3793
+
+Component	3
+# Nodes:	281
+Operation: Connected to soma.	Distance:	690
+
+Component	4
+# Nodes:	869
+Operation: Connected to soma.	Distance:	72
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_097.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_097.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_101.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_101.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_101.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	310
+Operation: Connected to soma.	Distance:	260.059
+
+Component	1
+# Nodes:	207
+Operation: Connected to soma.	Distance:	1036.25
+
+Component	2
+# Nodes:	339
+Operation: Connected to soma.	Distance:	160
+
+Component	3
+# Nodes:	454
+Operation: Connected to soma.	Distance:	166.021
+
+Component	4
+# Nodes:	3
+Operation: kept but not connected.	Distance:	103052
+
+Component	5
+# Nodes:	134
+Operation: kept but not connected.	Distance:	52027.9
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_101.dendrite.sorted.apo
+137
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_101.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_103.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_103.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_103.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	10
+
+Component	0
+# Nodes:	252
+Operation: Connected to soma.	Distance:	650.885
+
+Component	1
+# Nodes:	431
+Operation: Connected to soma.	Distance:	554.726
+
+Component	2
+# Nodes:	480
+Operation: kept but not connected.	Distance:	8018.44
+
+Component	3
+# Nodes:	971
+Operation: Connected to soma.	Distance:	98
+
+Component	4
+# Nodes:	3
+Operation: kept but not connected.	Distance:	107734
+
+Component	5
+# Nodes:	104
+Operation: kept but not connected.	Distance:	7494
+
+Component	6
+# Nodes:	155
+Operation: kept but not connected.	Distance:	5844.57
+
+Component	7
+# Nodes:	20
+Operation: Connected to soma.	Distance:	419
+
+Component	8
+# Nodes:	34
+Operation: kept but not connected.	Distance:	399893
+
+Component	9
+# Nodes:	7
+Operation: kept but not connected.	Distance:	266510
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_103.dendrite.sorted.apo
+783
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_103.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_105.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_105.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_105.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	4
+
+Component	0
+# Nodes:	4
+Operation: kept but not connected.	Distance:	120257
+
+Component	1
+# Nodes:	137
+Operation: Connected to soma.	Distance:	200.037
+
+Component	2
+# Nodes:	347
+Operation: Connected to soma.	Distance:	56.8049
+
+Component	3
+# Nodes:	64
+Operation: Connected to soma.	Distance:	1885
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_105.dendrite.sorted.apo
+4
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_105.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_106.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_106.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_106.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	397
+Operation: Connected to soma.	Distance:	1156
+
+Component	1
+# Nodes:	605
+Operation: Connected to soma.	Distance:	1044
+
+Component	2
+# Nodes:	164
+Operation: Connected to soma.	Distance:	1797.11
+
+Component	3
+# Nodes:	486
+Operation: Connected to soma.	Distance:	819.257
+
+Component	4
+# Nodes:	48
+Operation: kept but not connected.	Distance:	46210
+
+Component	5
+# Nodes:	132
+Operation: kept but not connected.	Distance:	9531.14
+
+Component	6
+# Nodes:	308
+Operation: Connected to soma.	Distance:	1165.14
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_106.dendrite.sorted.apo
+180
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_106.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_107.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_107.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_107.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	326
+Operation: Connected to soma.	Distance:	1595.19
+
+Component	1
+# Nodes:	429
+Operation: Connected to soma.	Distance:	556.606
+
+Component	2
+# Nodes:	492
+Operation: Connected to soma.	Distance:	1418.02
+
+Component	3
+# Nodes:	70
+Operation: Connected to soma.	Distance:	689.477
+
+Component	4
+# Nodes:	168
+Operation: kept but not connected.	Distance:	5629.05
+
+Component	5
+# Nodes:	268
+Operation: Connected to soma.	Distance:	1601
+
+Component	6
+# Nodes:	138
+Operation: kept but not connected.	Distance:	2535.16
+
+Component	7
+# Nodes:	53
+Operation: kept but not connected.	Distance:	26274.3
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_107.dendrite.sorted.apo
+359
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_107.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_108.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_108.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_108.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	289
+Operation: Connected to soma.	Distance:	402.22
+
+Component	1
+# Nodes:	407
+Operation: kept but not connected.	Distance:	2793
+
+Component	2
+# Nodes:	330
+Operation: Connected to soma.	Distance:	1297.89
+
+Component	3
+# Nodes:	352
+Operation: kept but not connected.	Distance:	115757
+
+Component	4
+# Nodes:	640
+Operation: Connected to soma.	Distance:	295.079
+
+Component	5
+# Nodes:	1316
+Operation: Connected to soma.	Distance:	705
+
+Component	6
+# Nodes:	1
+Operation: kept but not connected.	Distance:	16020.8
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_108.dendrite.sorted.apo
+760
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_108.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_109.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_109.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_109.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	13
+
+Component	0
+# Nodes:	66
+Operation: kept but not connected.	Distance:	5276.5
+
+Component	1
+# Nodes:	239
+Operation: Connected to soma.	Distance:	36.0708
+
+Component	2
+# Nodes:	209
+Operation: Connected to soma.	Distance:	772.891
+
+Component	3
+# Nodes:	208
+Operation: Connected to soma.	Distance:	155.859
+
+Component	4
+# Nodes:	582
+Operation: Connected to soma.	Distance:	265.135
+
+Component	5
+# Nodes:	114
+Operation: Connected to soma.	Distance:	614.225
+
+Component	6
+# Nodes:	103
+Operation: Connected to soma.	Distance:	1803.7
+
+Component	7
+# Nodes:	114
+Operation: Connected to soma.	Distance:	1409.53
+
+Component	8
+# Nodes:	12
+Operation: Connected to soma.	Distance:	292.361
+
+Component	9
+# Nodes:	134
+Operation: Connected to soma.	Distance:	115.614
+
+Component	10
+# Nodes:	56
+Operation: Connected to soma.	Distance:	644.927
+
+Component	11
+# Nodes:	61
+Operation: Connected to soma.	Distance:	145.015
+
+Component	12
+# Nodes:	10
+Operation: kept but not connected.	Distance:	78858.8
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_109.dendrite.sorted.apo
+76
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_109.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_110.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_110.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_110.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	8
+
+Component	0
+# Nodes:	829
+Operation: Connected to soma.	Distance:	1045.04
+
+Component	1
+# Nodes:	239
+Operation: Connected to soma.	Distance:	661.126
+
+Component	2
+# Nodes:	50
+Operation: kept but not connected.	Distance:	10528.2
+
+Component	3
+# Nodes:	214
+Operation: kept but not connected.	Distance:	3107.08
+
+Component	4
+# Nodes:	377
+Operation: Connected to soma.	Distance:	1844.33
+
+Component	5
+# Nodes:	123
+Operation: Connected to soma.	Distance:	1097
+
+Component	6
+# Nodes:	184
+Operation: kept but not connected.	Distance:	8466.33
+
+Component	7
+# Nodes:	15
+Operation: kept but not connected.	Distance:	35012.6
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_110.dendrite.sorted.apo
+463
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_110.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_111.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_111.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_111.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	4
+
+Component	0
+# Nodes:	1296
+Operation: Connected to soma.	Distance:	497
+
+Component	1
+# Nodes:	304
+Operation: Connected to soma.	Distance:	186
+
+Component	2
+# Nodes:	147
+Operation: kept but not connected.	Distance:	5245
+
+Component	3
+# Nodes:	433
+Operation: Connected to soma.	Distance:	1300
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_111.dendrite.sorted.apo
+147
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_111.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_123.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_123.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_123.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	6
+
+Component	0
+# Nodes:	368
+Operation: Connected to soma.	Distance:	1123
+
+Component	1
+# Nodes:	838
+Operation: Connected to soma.	Distance:	857
+
+Component	2
+# Nodes:	414
+Operation: Connected to soma.	Distance:	357
+
+Component	3
+# Nodes:	769
+Operation: Connected to soma.	Distance:	141.81
+
+Component	4
+# Nodes:	209
+Operation: Connected to soma.	Distance:	494.379
+
+Component	5
+# Nodes:	17
+Operation: kept but not connected.	Distance:	279824
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_123.dendrite.sorted.apo
+17
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_123.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
+[vaa3d]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_124.dendrite.swc #o /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_124.dendrite.sorted.swc #l 2 #s 0 #m 2000 #t 0.25 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+welcome to pre_processing
+Input file name:	/home/penglab/Documents/Morph_analysis/data/temp_dir/CPU_124.dendrite.swc
+Compartments will not be labeled
+Report main tree and subtrees
+Pruning short branches
+Skip Resampling
+Total components:	7
+
+Component	0
+# Nodes:	176
+Operation: Connected to soma.	Distance:	204.099
+
+Component	1
+# Nodes:	72
+Operation: Connected to soma.	Distance:	497
+
+Component	2
+# Nodes:	575
+Operation: Connected to soma.	Distance:	84
+
+Component	3
+# Nodes:	329
+Operation: Connected to soma.	Distance:	824
+
+Component	4
+# Nodes:	93
+Operation: Connected to soma.	Distance:	341.777
+
+Component	5
+# Nodes:	83
+Operation: Connected to soma.	Distance:	672
+
+Component	6
+# Nodes:	131
+Operation: Connected to soma.	Distance:	705
+done with saving file: /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_124.dendrite.sorted.apo
+0
+Skip PCA alignment
+	 /home/penglab/Documents/Morph_analysis/data/processed_swc/CPU_124.dendrite.sorted.swc has been generated successfully.
+Starting Vaa3D version checker...
