@@ -1,0 +1,46 @@
+17302_CPU_087.processed.swc
+17302_CPU_089.processed.swc
+/Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_087.processed.QC.txt
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[qc]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_087.processed.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_087.processed]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_087.processed.swc
+/Users/pengxie/Documents/Morph_analysis/data/QC/separate_files/17302_CPU_087.processed.QC.txt
+/Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_089.processed.QC.txt
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[qc]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_089.processed.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_089.processed]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/processed_swc/Whole/17302_CPU_089.processed.swc
+/Users/pengxie/Documents/Morph_analysis/data/QC/separate_files/17302_CPU_089.processed.QC.txt
+welcome to use get_percentage_disconnected
+welcom to use get_components
+	7 components found.
+welcome to use remove_duplicte
+Total duplicates:	0
+Case 1:	0
+Case 2:	0
+Case 3:	0
+Case 4:	0
+Starting Vaa3D version checker...
+welcome to use get_percentage_disconnected
+welcom to use get_components
+	2 components found.
+welcome to use remove_duplicte
+Total duplicates:	0
+Case 1:	0
+Case 2:	0
+Case 3:	0
+Case 4:	0
+Starting Vaa3D version checker...

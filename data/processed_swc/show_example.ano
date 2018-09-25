@@ -1,0 +1,5 @@
+SWCFILE=Whole/17302_CPU_092.processed.swc
+SWCFILE=Dendrite/17302_CPU_092.processed.dendrite.swc
+SWCFILE=Axon/17302_CPU_092.processed.axon.proximal_axon.swc
+SWCFILE=Axon/17302_CPU_092.processed.long_axon.swc
+SWCFILE=Axon/17302_CPU_092.processed.axon.distal_axon.swc

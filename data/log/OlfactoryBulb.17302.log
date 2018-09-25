@@ -1,0 +1,39 @@
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17302_Finished_Neurons/17302_OlfactoryBulb/051_ChenXP_SYY_07312018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[qc]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_051.processed.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_051.processed]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_051.processed.swc
+welcome to use get_percentage_disconnected
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17302_Finished_Neurons/17302_OlfactoryBulb/058_ChenXP_SYY_07312018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[qc]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_058.processed.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_058.processed]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_058.processed.swc
+welcome to use get_percentage_disconnected
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17302_Finished_Neurons/17302_OlfactoryBulb/060_ChenXP_SYY_07312018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[qc]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_060.processed.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_060.processed]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/processed_swc/OlfactoryBulb_060.processed.swc
+welcome to use get_percentage_disconnected
+Starting Vaa3D version checker...

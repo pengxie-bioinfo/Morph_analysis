@@ -1,0 +1,3 @@
+Percentage_disconnected(%)	7.631116
+Number_single_trees	4
+Exist_duplicate_nodes	0

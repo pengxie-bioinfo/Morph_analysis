@@ -1,0 +1,3906 @@
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_001_CXY_ZSJ_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_001.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_001.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_001.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.36238
+0.921849
+4.88087
+0.866387
+1.19664
+3.8935
+1.26585
+1.17447
+4.80714
+2.26095
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	8 components found.
+	Total # components:	8
+	Connecting components to soma
+	No soma marker found!
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_001.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_023_CP_WW_YJ_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_023.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_023.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_023.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.65747
+4.66496
+4.65747
+4.74224
+3.91002
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	5 components found.
+	Total # components:	5
+	Connecting components to soma
+		Component	0
+		# Nodes:	18043
+		Operation: Connected to soma.	Distance:	21.3829
+		Component	1
+		# Nodes:	1127
+		Operation: Connected to soma.	Distance:	110.677
+		Component	2
+		# Nodes:	606
+		Operation: Connected to soma.	Distance:	13.4334
+		Component	3
+		# Nodes:	247
+		Operation: Connected to soma.	Distance:	14.6136
+		Component	4
+		# Nodes:	4
+		Operation: Connected to soma.	Distance:	238.81
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_023.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_023.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_025_CXY_WW_ZSJ_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_025.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_025.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_025.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.7436
+3.37939
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	3 components found.
+	Total # components:	3
+	Connecting components to soma
+		Component	0
+		# Nodes:	26049
+		Operation: Connected to soma.	Distance:	29.0857
+		Component	1
+		# Nodes:	548
+		Operation: Connected to soma.	Distance:	16.1723
+		Component	2
+		# Nodes:	5
+		Operation: Connected to soma.	Distance:	507.905
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_025.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_025.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_026_LL_CXY_SYY_WW_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_026.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_026.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_026.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+1.7924
+0.905884
+4.30193
+2.53682
+1.73419
+4.12311
+1.74965
+3.94597
+3.7649
+2.47225
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	11 components found.
+	Total # components:	11
+	Connecting components to soma
+		Component	0
+		# Nodes:	37852
+		Operation: Connected to soma.	Distance:	36.9945
+		Component	1
+		# Nodes:	37
+		Operation: kept but not connected.	Distance:	7355.27
+		Component	2
+		# Nodes:	632
+		Operation: Connected to soma.	Distance:	44.2768
+		Component	3
+		# Nodes:	175
+		Operation: Connected to soma.	Distance:	24.4137
+		Component	4
+		# Nodes:	506
+		Operation: Connected to soma.	Distance:	125.31
+		Component	5
+		# Nodes:	97
+		Operation: Connected to soma.	Distance:	39.891
+		Component	6
+		# Nodes:	172
+		Operation: Connected to soma.	Distance:	23.7402
+		Component	7
+		# Nodes:	58
+		Operation: Connected to soma.	Distance:	109.999
+		Component	8
+		# Nodes:	11
+		Operation: Connected to soma.	Distance:	416.427
+		Component	9
+		# Nodes:	1
+		Operation: Connected to soma.	Distance:	153.322
+		Component	10
+		# Nodes:	6
+		Operation: Connected to soma.	Distance:	1435.45
+welcom to use get_components
+	2 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_026.processed.apo
+Percentage_lost	0.093560%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_026.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_027_YLL_SYY_ZSJ_YJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_027.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_027.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_027.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.6859
+1.7083
+1.27334
+3.97216
+1.18691
+1.51606
+4.37997
+2.09777
+0.438259
+4.43084
+4.03745
+2.79348
+4.79393
+2.72022
+2.13308
+2.04308
+4.67116
+1.56669
+3.46994
+2.98768
+4.09377
+0.5
+3.70105
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	11 components found.
+	Total # components:	11
+	Connecting components to soma
+		Component	0
+		# Nodes:	18816
+		Operation: Connected to soma.	Distance:	38.0049
+		Component	1
+		# Nodes:	1918
+		Operation: Connected to soma.	Distance:	56.8874
+		Component	2
+		# Nodes:	274
+		Operation: Connected to soma.	Distance:	275.786
+		Component	3
+		# Nodes:	580
+		Operation: Connected to soma.	Distance:	22.4087
+		Component	4
+		# Nodes:	3198
+		Operation: Connected to soma.	Distance:	3537.72
+		Component	5
+		# Nodes:	111
+		Operation: Connected to soma.	Distance:	3737.05
+		Component	6
+		# Nodes:	455
+		Operation: Connected to soma.	Distance:	31.61
+		Component	7
+		# Nodes:	168
+		Operation: Connected to soma.	Distance:	43.8273
+		Component	8
+		# Nodes:	256
+		Operation: Connected to soma.	Distance:	378.529
+		Component	9
+		# Nodes:	8
+		Operation: Connected to soma.	Distance:	1086.1
+		Component	10
+		# Nodes:	14
+		Operation: Connected to soma.	Distance:	1077.72
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_027.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_027.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_028_CP_SYY_YJ_WW_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_028.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_028.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_028.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.59296
+3.59296
+1.75459
+0.626625
+1.0868
+0.805742
+4.93489
+1.80344
+4.95554
+2.98306
+2.3716
+2.20147
+2.01062
+3.66678
+1.58583
+0.985818
+1.80344
+3.37492
+2.6859
+4.21756
+4.69984
+3.90995
+4.93532
+4.68562
+3.86658
+2.47415
+4.43697
+1.71495
+3.77157
+2.60399
+4.97329
+4.1385
+4.21756
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	12 components found.
+	Total # components:	12
+	Connecting components to soma
+		Component	0
+		# Nodes:	108
+		Operation: Connected to soma.	Distance:	759.852
+		Component	1
+		# Nodes:	13596
+		Operation: Connected to soma.	Distance:	14.7268
+		Component	2
+		# Nodes:	19
+		Operation: Connected to soma.	Distance:	2221.34
+		Component	3
+		# Nodes:	7
+		Operation: Connected to soma.	Distance:	1850.04
+		Component	4
+		# Nodes:	406
+		Operation: Connected to soma.	Distance:	3647.95
+		Component	5
+		# Nodes:	63
+		Operation: Connected to soma.	Distance:	3322.59
+		Component	6
+		# Nodes:	1622
+		Operation: Connected to soma.	Distance:	124.505
+		Component	7
+		# Nodes:	780
+		Operation: Connected to soma.	Distance:	22.0393
+		Component	8
+		# Nodes:	426
+		Operation: Connected to soma.	Distance:	21.7269
+		Component	9
+		# Nodes:	6
+		Operation: Connected to soma.	Distance:	22.7361
+		Component	10
+		# Nodes:	658
+		Operation: Connected to soma.	Distance:	1350.68
+		Component	11
+		# Nodes:	1
+		Operation: Connected to soma.	Distance:	2859.07
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_028.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_028.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_040_YLL_SYY_YJ_WW_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_040.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_040.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_040.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.24963
+2.16759
+3.47426
+1.60963
+2.27198
+1.97425
+2.8466
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	12 components found.
+	Total # components:	12
+	Connecting components to soma
+		Component	0
+		# Nodes:	23775
+		Operation: Connected to soma.	Distance:	51.2299
+		Component	1
+		# Nodes:	300
+		Operation: Connected to soma.	Distance:	1448.32
+		Component	2
+		# Nodes:	8
+		Operation: kept but not connected.	Distance:	6328.92
+		Component	3
+		# Nodes:	167
+		Operation: kept but not connected.	Distance:	5382.76
+		Component	4
+		# Nodes:	11
+		Operation: Connected to soma.	Distance:	1678.01
+		Component	5
+		# Nodes:	413
+		Operation: Connected to soma.	Distance:	27.9598
+		Component	6
+		# Nodes:	364
+		Operation: Connected to soma.	Distance:	44.5943
+		Component	7
+		# Nodes:	56
+		Operation: Connected to soma.	Distance:	87.5692
+		Component	8
+		# Nodes:	1141
+		Operation: Connected to soma.	Distance:	25.3516
+		Component	9
+		# Nodes:	172
+		Operation: Connected to soma.	Distance:	21.8208
+		Component	10
+		# Nodes:	417
+		Operation: Connected to soma.	Distance:	34.7873
+		Component	11
+		# Nodes:	81
+		Operation: Connected to soma.	Distance:	709.138
+welcom to use get_components
+	3 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_040.processed.apo
+Percentage_lost	0.650413%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_040.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_044_LL_WW_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_044.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_044.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_044.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	6 components found.
+	Total # components:	6
+	Connecting components to soma
+		Component	0
+		# Nodes:	24149
+		Operation: Connected to soma.	Distance:	27.4922
+		Component	1
+		# Nodes:	173
+		Operation: Connected to soma.	Distance:	25.4293
+		Component	2
+		# Nodes:	439
+		Operation: Connected to soma.	Distance:	28.2769
+		Component	3
+		# Nodes:	750
+		Operation: Connected to soma.	Distance:	31.0223
+		Component	4
+		# Nodes:	1096
+		Operation: Connected to soma.	Distance:	26.2076
+		Component	5
+		# Nodes:	72
+		Operation: Connected to soma.	Distance:	195.079
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_044.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_044.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_048_CXP_CXY_SYY_ZSJ_08312018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_048.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_048.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_048.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.62486
+3.22699
+0.801415
+2.17986
+4.97034
+4.30116
+3.60555
+1.52234
+0.707107
+3.19602
+2.0824
+4.33771
+3.67921
+1.68843
+3.94708
+3.94708
+4.17425
+3.97394
+4.52242
+1.5727
+4.54665
+3.75138
+4.2556
+3.80183
+2.81021
+4.66598
+3.24987
+1.48704
+4.45618
+2.07792
+3.66929
+3.25236
+4.60069
+3.55657
+1.03068
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	7 components found.
+	Total # components:	7
+	Connecting components to soma
+		Component	0
+		# Nodes:	36538
+		Operation: Connected to soma.	Distance:	33.7765
+		Component	1
+		# Nodes:	1163
+		Operation: Connected to soma.	Distance:	34.9562
+		Component	2
+		# Nodes:	587
+		Operation: Connected to soma.	Distance:	28.4856
+		Component	3
+		# Nodes:	6
+		Operation: Connected to soma.	Distance:	1699.35
+		Component	4
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	1020.76
+		Component	5
+		# Nodes:	507
+		Operation: Connected to soma.	Distance:	923.79
+		Component	6
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	1080.1
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_048.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_048.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_052_YLL_SYY_YJ_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_052.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_052.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_052.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	9 components found.
+	Total # components:	9
+	Connecting components to soma
+		Component	0
+		# Nodes:	17676
+		Operation: Connected to soma.	Distance:	23.9465
+		Component	1
+		# Nodes:	10
+		Operation: kept but not connected.	Distance:	7524.28
+		Component	2
+		# Nodes:	656
+		Operation: Connected to soma.	Distance:	23.1637
+		Component	3
+		# Nodes:	395
+		Operation: Connected to soma.	Distance:	25.447
+		Component	4
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	532.412
+		Component	5
+		# Nodes:	103
+		Operation: Connected to soma.	Distance:	24.7965
+		Component	6
+		# Nodes:	337
+		Operation: Connected to soma.	Distance:	27.1683
+		Component	7
+		# Nodes:	219
+		Operation: Connected to soma.	Distance:	322.281
+		Component	8
+		# Nodes:	16
+		Operation: Connected to soma.	Distance:	1306.49
+7.19682
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_052.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_052.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_055_CXY_WW_ZSJ_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_055.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_055.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_055.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.40431
+2.14771
+4.00624
+1.73616
+2.98068
+2.81295
+1.7266
+2.98068
+3.73479
+0.911152
+1.73616
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	8 components found.
+	Total # components:	8
+	Connecting components to soma
+		Component	0
+		# Nodes:	23169
+		Operation: Connected to soma.	Distance:	30.7709
+		Component	1
+		# Nodes:	1585
+		Operation: Connected to soma.	Distance:	39.9311
+		Component	2
+		# Nodes:	610
+		Operation: Connected to soma.	Distance:	41.5564
+		Component	3
+		# Nodes:	709
+		Operation: Connected to soma.	Distance:	28.9699
+		Component	4
+		# Nodes:	91
+		Operation: Connected to soma.	Distance:	77.5766
+		Component	5
+		# Nodes:	270
+		Operation: Connected to soma.	Distance:	28.022
+		Component	6
+		# Nodes:	21
+		Operation: kept but not connected.	Distance:	8721.77
+		Component	7
+		# Nodes:	12
+		Operation: kept but not connected.	Distance:	8796.03
+9.99144
+9.22569
+5.82189
+welcom to use get_components
+	2 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_055.processed.apo
+Percentage_lost	0.079341%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_055.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_056_HGD_YJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_056.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_056.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_056.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.18558
+1.41568
+0.911473
+3.98258
+0.911473
+2.9021
+3.36309
+1.01633
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	16 components found.
+	Total # components:	16
+	Connecting components to soma
+		Component	0
+		# Nodes:	1315
+		Operation: Connected to soma.	Distance:	26.4686
+		Component	1
+		# Nodes:	9702
+		Operation: Connected to soma.	Distance:	3899.82
+		Component	2
+		# Nodes:	9777
+		Operation: kept but not connected.	Distance:	7171.28
+		Component	3
+		# Nodes:	209
+		Operation: kept but not connected.	Distance:	7935.2
+		Component	4
+		# Nodes:	45
+		Operation: kept but not connected.	Distance:	8026.88
+		Component	5
+		# Nodes:	177
+		Operation: kept but not connected.	Distance:	8156.29
+		Component	6
+		# Nodes:	384
+		Operation: Connected to soma.	Distance:	1960.83
+		Component	7
+		# Nodes:	2
+		Operation: Connected to soma.	Distance:	1941.85
+		Component	8
+		# Nodes:	922
+		Operation: Connected to soma.	Distance:	19.3209
+		Component	9
+		# Nodes:	270
+		Operation: Connected to soma.	Distance:	24.2432
+		Component	10
+		# Nodes:	478
+		Operation: Connected to soma.	Distance:	31.3664
+		Component	11
+		# Nodes:	100
+		Operation: Connected to soma.	Distance:	31.2772
+		Component	12
+		# Nodes:	451
+		Operation: Connected to soma.	Distance:	30.9756
+		Component	13
+		# Nodes:	119
+		Operation: kept but not connected.	Distance:	6652.79
+		Component	14
+		# Nodes:	195
+		Operation: Connected to soma.	Distance:	40.1259
+		Component	15
+		# Nodes:	751
+		Operation: Connected to soma.	Distance:	24.8437
+9.21243
+8.90996
+8.60233
+8.59366
+8.07645
+8.60233
+9.63466
+8.83176
+8.36559
+welcom to use get_components
+	4 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_056.processed.apo
+Percentage_lost	1.369588%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_056.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_058_YLL_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_058.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_058.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_058.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.26095
+3.45112
+1.84275
+2.87522
+3.71135
+3.18838
+1.41421
+0.843519
+4.96725
+3.10272
+4.61569
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	10 components found.
+	Total # components:	10
+	Connecting components to soma
+		Component	0
+		# Nodes:	25829
+		Operation: Connected to soma.	Distance:	54.7969
+		Component	1
+		# Nodes:	343
+		Operation: kept but not connected.	Distance:	8769.05
+		Component	2
+		# Nodes:	68
+		Operation: kept but not connected.	Distance:	8703.45
+		Component	3
+		# Nodes:	491
+		Operation: Connected to soma.	Distance:	2901.24
+		Component	4
+		# Nodes:	605
+		Operation: Connected to soma.	Distance:	44.0872
+		Component	5
+		# Nodes:	796
+		Operation: Connected to soma.	Distance:	27.3785
+		Component	6
+		# Nodes:	275
+		Operation: Connected to soma.	Distance:	49.1891
+		Component	7
+		# Nodes:	959
+		Operation: Connected to soma.	Distance:	40.5271
+		Component	8
+		# Nodes:	1823
+		Operation: Connected to soma.	Distance:	45.5147
+		Component	9
+		# Nodes:	519
+		Operation: Connected to soma.	Distance:	43.219
+5.42086
+welcom to use get_components
+	2 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_058.processed.apo
+Percentage_lost	1.296203%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_058.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_060_CXY_SYY_ZSJ_08312018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_060.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_060.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_060.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.22735
+1.4768
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	7 components found.
+	Total # components:	7
+	Connecting components to soma
+		Component	0
+		# Nodes:	21721
+		Operation: Connected to soma.	Distance:	25.7741
+		Component	1
+		# Nodes:	14
+		Operation: Connected to soma.	Distance:	2409.78
+		Component	2
+		# Nodes:	356
+		Operation: Connected to soma.	Distance:	16.7248
+		Component	3
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	809.354
+		Component	4
+		# Nodes:	353
+		Operation: Connected to soma.	Distance:	11.3168
+		Component	5
+		# Nodes:	351
+		Operation: Connected to soma.	Distance:	21.8313
+		Component	6
+		# Nodes:	195
+		Operation: Connected to soma.	Distance:	1676.4
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_060.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_060.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_067_ChengPin_WW_YJ_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_067.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_067.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_067.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	4 components found.
+	Total # components:	4
+	Connecting components to soma
+		Component	0
+		# Nodes:	21287
+		Operation: Connected to soma.	Distance:	32.0968
+		Component	1
+		# Nodes:	358
+		Operation: kept but not connected.	Distance:	6084.58
+		Component	2
+		# Nodes:	1328
+		Operation: Connected to soma.	Distance:	37.3577
+		Component	3
+		# Nodes:	368
+		Operation: Connected to soma.	Distance:	24.0432
+9.11043
+8.26621
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_067.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_067.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_068_CP_SYY_YJ_SJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_068.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_068.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_068.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+1.41421
+4.73905
+4.17175
+4.73861
+2.41655
+3.31783
+2.88539
+2.41655
+4.47214
+2.70106
+1.41421
+4.63282
+3.18711
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	8 components found.
+	Total # components:	8
+	Connecting components to soma
+		Component	0
+		# Nodes:	19049
+		Operation: Connected to soma.	Distance:	30.3044
+		Component	1
+		# Nodes:	817
+		Operation: Connected to soma.	Distance:	44.7717
+		Component	2
+		# Nodes:	147
+		Operation: Connected to soma.	Distance:	22.2161
+		Component	3
+		# Nodes:	4
+		Operation: Connected to soma.	Distance:	177.699
+		Component	4
+		# Nodes:	53
+		Operation: Connected to soma.	Distance:	217.22
+		Component	5
+		# Nodes:	1622
+		Operation: Connected to soma.	Distance:	228.393
+		Component	6
+		# Nodes:	72
+		Operation: Connected to soma.	Distance:	40.955
+		Component	7
+		# Nodes:	268
+		Operation: Connected to soma.	Distance:	31.7081
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_068.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_068.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_070_ChengPin_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_070.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_070.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_070.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.78978
+3.36309
+3.36309
+4.78448
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	4 components found.
+	Total # components:	4
+	Connecting components to soma
+		Component	0
+		# Nodes:	1957
+		Operation: Connected to soma.	Distance:	31.096
+		Component	1
+		# Nodes:	356
+		Operation: Connected to soma.	Distance:	25.6419
+		Component	2
+		# Nodes:	242
+		Operation: Connected to soma.	Distance:	25.3859
+		Component	3
+		# Nodes:	963
+		Operation: Connected to soma.	Distance:	13.5461
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_070.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_070.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_081_CHenXP_WW_LijLiu_08152018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_081.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_081.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_081.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.52754
+1.72911
+3.11384
+3.28094
+1.94292
+1.05829
+3.02665
+1.56698
+4.54473
+1.21636
+3.53488
+1.53654
+2.07427
+1.80356
+1.42212
+2.49525
+1.21636
+1.42212
+4.36845
+1.81229
+1.72911
+1
+4.01119
+1.76507
+0.0908203
+0.307169
+1.89051
+0.928746
+3.66526
+4.24391
+0.89907
+0.842492
+2.18748
+4.27797
+2.64885
+2.21037
+2.07427
+2.73093
+1.06921
+4.74494
+3.27121
+4.67192
+1.36837
+3.78791
+3.21688
+1.91656
+3.64043
+4.45968
+3.68098
+4.29635
+2.84465
+1.4928
+1.06921
+3.80403
+3.51493
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	30 components found.
+	Total # components:	30
+	Connecting components to soma
+		Component	0
+		# Nodes:	27430
+		Operation: Connected to soma.	Distance:	49.9701
+		Component	1
+		# Nodes:	4
+		Operation: kept but not connected.	Distance:	9301.31
+		Component	2
+		# Nodes:	50
+		Operation: kept but not connected.	Distance:	7858.27
+		Component	3
+		# Nodes:	166
+		Operation: kept but not connected.	Distance:	7650.82
+		Component	4
+		# Nodes:	16
+		Operation: kept but not connected.	Distance:	8579.67
+		Component	5
+		# Nodes:	1
+		Operation: kept but not connected.	Distance:	7858.83
+		Component	6
+		# Nodes:	28
+		Operation: kept but not connected.	Distance:	7842.55
+		Component	7
+		# Nodes:	382
+		Operation: kept but not connected.	Distance:	7816.29
+		Component	8
+		# Nodes:	332
+		Operation: kept but not connected.	Distance:	7207.19
+		Component	9
+		# Nodes:	111
+		Operation: kept but not connected.	Distance:	7708.98
+		Component	10
+		# Nodes:	198
+		Operation: kept but not connected.	Distance:	7748.24
+		Component	11
+		# Nodes:	291
+		Operation: kept but not connected.	Distance:	7351.17
+		Component	12
+		# Nodes:	7
+		Operation: kept but not connected.	Distance:	7882.04
+		Component	13
+		# Nodes:	90
+		Operation: kept but not connected.	Distance:	7760.48
+		Component	14
+		# Nodes:	81
+		Operation: kept but not connected.	Distance:	7955.43
+		Component	15
+		# Nodes:	310
+		Operation: kept but not connected.	Distance:	7912.19
+		Component	16
+		# Nodes:	312
+		Operation: kept but not connected.	Distance:	7762.22
+		Component	17
+		# Nodes:	32
+		Operation: kept but not connected.	Distance:	7840.22
+		Component	18
+		# Nodes:	42
+		Operation: kept but not connected.	Distance:	8162.78
+		Component	19
+		# Nodes:	160
+		Operation: kept but not connected.	Distance:	8310.04
+		Component	20
+		# Nodes:	2
+		Operation: kept but not connected.	Distance:	8612.36
+		Component	21
+		# Nodes:	13
+		Operation: Connected to soma.	Distance:	4354.06
+		Component	22
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	4429.02
+		Component	23
+		# Nodes:	21
+		Operation: Connected to soma.	Distance:	4469.79
+		Component	24
+		# Nodes:	3123
+		Operation: Connected to soma.	Distance:	46.2567
+		Component	25
+		# Nodes:	376
+		Operation: Connected to soma.	Distance:	55.5465
+		Component	26
+		# Nodes:	953
+		Operation: Connected to soma.	Distance:	56.1706
+		Component	27
+		# Nodes:	288
+		Operation: Connected to soma.	Distance:	217.428
+		Component	28
+		# Nodes:	123
+		Operation: Connected to soma.	Distance:	133.349
+		Component	29
+		# Nodes:	88
+		Operation: Connected to soma.	Distance:	196.146
+9.86722
+9.64338
+9.23006
+9.06803
+8.58233
+8.08565
+5.77722
+welcom to use get_components
+	17 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_081.processed.apo
+Percentage_lost	6.421233%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_081.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_082_LijLiu_SYY_ZSJ_08162018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_082.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_082.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_082.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+1.22723
+3.98083
+1.92167
+1.1704
+2.46111
+1.93495
+0.502379
+3.43181
+2.67388
+1.3351
+3.85991
+3.47999
+2.02643
+4.10112
+2.51702
+2.46111
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	24 components found.
+	Total # components:	24
+	Connecting components to soma
+		Component	0
+		# Nodes:	12798
+		Operation: Connected to soma.	Distance:	25.1209
+		Component	1
+		# Nodes:	22
+		Operation: kept but not connected.	Distance:	8893.46
+		Component	2
+		# Nodes:	88
+		Operation: kept but not connected.	Distance:	8822.99
+		Component	3
+		# Nodes:	141
+		Operation: kept but not connected.	Distance:	8731.27
+		Component	4
+		# Nodes:	3
+		Operation: kept but not connected.	Distance:	8731.32
+		Component	5
+		# Nodes:	9
+		Operation: kept but not connected.	Distance:	9255.43
+		Component	6
+		# Nodes:	10
+		Operation: kept but not connected.	Distance:	8329.76
+		Component	7
+		# Nodes:	32
+		Operation: kept but not connected.	Distance:	8165.57
+		Component	8
+		# Nodes:	10
+		Operation: kept but not connected.	Distance:	8509.48
+		Component	9
+		# Nodes:	2180
+		Operation: Connected to soma.	Distance:	36.6217
+		Component	10
+		# Nodes:	46
+		Operation: Connected to soma.	Distance:	266.916
+		Component	11
+		# Nodes:	240
+		Operation: Connected to soma.	Distance:	59.4992
+		Component	12
+		# Nodes:	132
+		Operation: Connected to soma.	Distance:	65.7911
+		Component	13
+		# Nodes:	226
+		Operation: Connected to soma.	Distance:	25.1082
+		Component	14
+		# Nodes:	106
+		Operation: Connected to soma.	Distance:	47.1008
+		Component	15
+		# Nodes:	282
+		Operation: Connected to soma.	Distance:	42.2731
+		Component	16
+		# Nodes:	131
+		Operation: Connected to soma.	Distance:	92.6267
+		Component	17
+		# Nodes:	284
+		Operation: Connected to soma.	Distance:	27.0089
+		Component	18
+		# Nodes:	71
+		Operation: Connected to soma.	Distance:	141.058
+		Component	19
+		# Nodes:	89
+		Operation: Connected to soma.	Distance:	115.392
+		Component	20
+		# Nodes:	283
+		Operation: Connected to soma.	Distance:	48.3519
+		Component	21
+		# Nodes:	86
+		Operation: Connected to soma.	Distance:	178.731
+		Component	22
+		# Nodes:	107
+		Operation: Connected to soma.	Distance:	140.111
+		Component	23
+		# Nodes:	74
+		Operation: Connected to soma.	Distance:	120.986
+6.88899
+6.88899
+9.02862
+8.63874
+welcom to use get_components
+	6 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_082.processed.apo
+Percentage_lost	0.756404%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_082.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_088_HGD_YJ_LijLiu_08192018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_088.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_088.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_088.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+1.0349
+3.03627
+1.53455
+3.18814
+0.98924
+3.73654
+2.33113
+3.65387
+4.00224
+2.91605
+1.65692
+1.2292
+2.83684
+2.78517
+3.96269
+2.28253
+4.94143
+0.615619
+1.27427
+4.07936
+2.19449
+1.58809
+4.04491
+2.88156
+1.98934
+3.80455
+3.00542
+2.58375
+1.58809
+4.73715
+3.66534
+1.54328
+3.78647
+3.01301
+1.54328
+4.16426
+3.01423
+2.27158
+1.78906
+1.5357
+1.81224
+3.26871
+1.68611
+4.51605
+0.761168
+1.53455
+4.17854
+2.75908
+1.0349
+3.53677
+2.0332
+1.73779
+2.71784
+1.04468
+0.98924
+2.66193
+4.31334
+2.48559
+3.70109
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	11 components found.
+	Total # components:	11
+	Connecting components to soma
+		Component	0
+		# Nodes:	27270
+		Operation: Connected to soma.	Distance:	31.3358
+		Component	1
+		# Nodes:	2855
+		Operation: Connected to soma.	Distance:	17.7717
+		Component	2
+		# Nodes:	198
+		Operation: Connected to soma.	Distance:	27.0051
+		Component	3
+		# Nodes:	1278
+		Operation: Connected to soma.	Distance:	20.7745
+		Component	4
+		# Nodes:	59
+		Operation: Connected to soma.	Distance:	285.648
+		Component	5
+		# Nodes:	1106
+		Operation: Connected to soma.	Distance:	54.6782
+		Component	6
+		# Nodes:	1289
+		Operation: Connected to soma.	Distance:	34.283
+		Component	7
+		# Nodes:	331
+		Operation: kept but not connected.	Distance:	11873.7
+		Component	8
+		# Nodes:	535
+		Operation: kept but not connected.	Distance:	11991.7
+		Component	9
+		# Nodes:	18
+		Operation: kept but not connected.	Distance:	12431.4
+		Component	10
+		# Nodes:	15
+		Operation: kept but not connected.	Distance:	12219.5
+6.76836
+welcom to use get_components
+	4 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_088.processed.apo
+Percentage_lost	1.041339%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_088.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_091_SYY_WW_LijLiu_08162018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_091.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_091.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_091.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2
+3.8873
+3.65798
+1.71229
+4.35261
+3.26487
+0.687046
+4.80795
+4.43025
+3.77036
+2.19406
+4.95467
+1.69178
+2.91517
+1.31582
+3.55802
+1.91794
+1.31582
+4.86989
+2.57974
+2.47806
+4.70643
+3.15623
+4.30526
+1.75232
+1.63979
+4.90778
+0.863135
+4.94923
+1.94477
+1.89872
+1.94477
+4.50616
+1.27282
+1.27282
+4.3479
+3.30759
+3.22498
+1.81633
+2.92329
+4.80595
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	22 components found.
+	Total # components:	22
+	Connecting components to soma
+		Component	0
+		# Nodes:	30942
+		Operation: Connected to soma.	Distance:	61.7296
+		Component	1
+		# Nodes:	206
+		Operation: Connected to soma.	Distance:	3450.82
+		Component	2
+		# Nodes:	258
+		Operation: Connected to soma.	Distance:	3457.91
+		Component	3
+		# Nodes:	143
+		Operation: kept but not connected.	Distance:	7241.91
+		Component	4
+		# Nodes:	14
+		Operation: kept but not connected.	Distance:	7555.51
+		Component	5
+		# Nodes:	6
+		Operation: kept but not connected.	Distance:	7724.66
+		Component	6
+		# Nodes:	72
+		Operation: kept but not connected.	Distance:	7662.23
+		Component	7
+		# Nodes:	426
+		Operation: Connected to soma.	Distance:	48.7418
+		Component	8
+		# Nodes:	529
+		Operation: Connected to soma.	Distance:	52.235
+		Component	9
+		# Nodes:	1601
+		Operation: Connected to soma.	Distance:	31.3039
+		Component	10
+		# Nodes:	93
+		Operation: Connected to soma.	Distance:	137.964
+		Component	11
+		# Nodes:	59
+		Operation: Connected to soma.	Distance:	111.891
+		Component	12
+		# Nodes:	31
+		Operation: Connected to soma.	Distance:	219.666
+		Component	13
+		# Nodes:	109
+		Operation: Connected to soma.	Distance:	99.1425
+		Component	14
+		# Nodes:	125
+		Operation: Connected to soma.	Distance:	67.5722
+		Component	15
+		# Nodes:	338
+		Operation: Connected to soma.	Distance:	55.9754
+		Component	16
+		# Nodes:	501
+		Operation: Connected to soma.	Distance:	121.121
+		Component	17
+		# Nodes:	1078
+		Operation: Connected to soma.	Distance:	32.575
+		Component	18
+		# Nodes:	110
+		Operation: Connected to soma.	Distance:	39.9128
+		Component	19
+		# Nodes:	180
+		Operation: Connected to soma.	Distance:	40.0996
+		Component	20
+		# Nodes:	101
+		Operation: kept but not connected.	Distance:	7436.2
+		Component	21
+		# Nodes:	13
+		Operation: kept but not connected.	Distance:	7967.36
+8.67782
+5.51444
+9.6596
+8.02419
+6.87779
+6.1206
+7.49037
+5.34916
+7.89848
+7.34972
+welcom to use get_components
+	3 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_091.processed.apo
+Percentage_lost	0.438596%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_091.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_092_YLL_yuanjia_LijLiu_08172018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_092.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_092.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_092.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.29941
+1.60161
+2.25056
+3.60004
+4.33378
+1.76505
+1.18636
+1.82626
+2.10951
+2.5209
+1.22904
+4.93349
+1.23442
+4.15638
+1.66459
+3.18543
+3.57034
+3.36439
+3.20359
+3.43258
+2.80633
+1.5013
+2.5823
+3.20359
+4.23381
+4.10082
+3.62163
+3.44524
+1.77997
+4.0709
+1.40393
+1.20489
+1.52738
+1.23442
+1.69139
+4.50026
+3.26717
+3.18543
+1.8467
+1.66459
+1.77997
+1.57287
+4.05556
+2.29601
+4.82035
+2.02298
+0.927531
+2.91077
+2.29601
+1.98713
+1.57287
+3.7019
+1.10411
+2.98427
+4.84351
+2.57876
+2.8673
+1.69139
+4.26768
+1.55685
+2.88121
+1.92709
+1.62939
+3.39776
+1.65339
+4.80181
+1.57912
+4.80181
+3.97446
+2.2706
+3.30635
+2.61934
+4.29319
+2.68724
+1.442
+1.05549
+1.9499
+1.3349
+4.06404
+1.41421
+3.92369
+4.7659
+2.23234
+3.07947
+2.14203
+3.03319
+1.06438
+3.63174
+3.75347
+1.97114
+1.4613
+3.89143
+3.04168
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	29 components found.
+	Total # components:	29
+	Connecting components to soma
+		Component	0
+		# Nodes:	28402
+		Operation: Connected to soma.	Distance:	1365.68
+		Component	1
+		# Nodes:	444
+		Operation: Connected to soma.	Distance:	3210.66
+		Component	2
+		# Nodes:	151
+		Operation: Connected to soma.	Distance:	3144.22
+		Component	3
+		# Nodes:	1155
+		Operation: Connected to soma.	Distance:	2074.85
+		Component	4
+		# Nodes:	1137
+		Operation: Connected to soma.	Distance:	1742.89
+		Component	5
+		# Nodes:	1210
+		Operation: Connected to soma.	Distance:	1945.36
+		Component	6
+		# Nodes:	974
+		Operation: Connected to soma.	Distance:	1760.36
+		Component	7
+		# Nodes:	463
+		Operation: Connected to soma.	Distance:	2090.12
+		Component	8
+		# Nodes:	126
+		Operation: Connected to soma.	Distance:	2149.07
+		Component	9
+		# Nodes:	178
+		Operation: Connected to soma.	Distance:	1669.1
+		Component	10
+		# Nodes:	66
+		Operation: Connected to soma.	Distance:	1858.77
+		Component	11
+		# Nodes:	122
+		Operation: Connected to soma.	Distance:	1635.02
+		Component	12
+		# Nodes:	1571
+		Operation: kept but not connected.	Distance:	6585.86
+		Component	13
+		# Nodes:	391
+		Operation: kept but not connected.	Distance:	6712.2
+		Component	14
+		# Nodes:	506
+		Operation: kept but not connected.	Distance:	7402.99
+		Component	15
+		# Nodes:	6
+		Operation: kept but not connected.	Distance:	7465.45
+		Component	16
+		# Nodes:	181
+		Operation: kept but not connected.	Distance:	7475.7
+		Component	17
+		# Nodes:	254
+		Operation: kept but not connected.	Distance:	8023.76
+		Component	18
+		# Nodes:	751
+		Operation: kept but not connected.	Distance:	7929.61
+		Component	19
+		# Nodes:	4
+		Operation: kept but not connected.	Distance:	8991.89
+		Component	20
+		# Nodes:	4
+		Operation: kept but not connected.	Distance:	9077.05
+		Component	21
+		# Nodes:	1
+		Operation: kept but not connected.	Distance:	7820.8
+		Component	22
+		# Nodes:	123
+		Operation: kept but not connected.	Distance:	8167.92
+		Component	23
+		# Nodes:	1
+		Operation: kept but not connected.	Distance:	8283.93
+		Component	24
+		# Nodes:	4
+		Operation: kept but not connected.	Distance:	8337.58
+		Component	25
+		# Nodes:	46
+		Operation: kept but not connected.	Distance:	8622.84
+		Component	26
+		# Nodes:	72
+		Operation: kept but not connected.	Distance:	8771.93
+		Component	27
+		# Nodes:	31
+		Operation: kept but not connected.	Distance:	8505.41
+		Component	28
+		# Nodes:	19
+		Operation: kept but not connected.	Distance:	8572.58
+6.67557
+5.4008
+5.79518
+5.93005
+7.84825
+6.52973
+7.02501
+9.62257
+9.43497
+8.37515
+6.67557
+9.48964
+8.25652
+5.79518
+9.68454
+8.47292
+8.30644
+welcom to use get_components
+	8 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_092.processed.apo
+Percentage_lost	8.196593%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_092.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_093_yuanjia_SYY_YLL_LijLiu_08172018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_093.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_093.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_093.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+0.46013
+4.59028
+2.14117
+1.71831
+3.65869
+1.83663
+1.1242
+3.60896
+1.31211
+4.62451
+4.44071
+3.99104
+2.49654
+3.78319
+1.89502
+4.92927
+3.58219
+1.48553
+3.83388
+4.79868
+1.71831
+1.83663
+4.84921
+4.55999
+4.33348
+2.41965
+1.29975
+3.12247
+3.7278
+2.88486
+2.5039
+4.3433
+1.58353
+3.35573
+1.1242
+4.99284
+3.88943
+4.73365
+2.27891
+1.75693
+3.60383
+4.14652
+0.46013
+4.50987
+3.5155
+4.43062
+3.60383
+4.75268
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	35 components found.
+	Total # components:	35
+	Connecting components to soma
+		Component	0
+		# Nodes:	8472
+		Operation: Connected to soma.	Distance:	68.6175
+		Component	1
+		# Nodes:	172
+		Operation: Connected to soma.	Distance:	2946.9
+		Component	2
+		# Nodes:	7
+		Operation: Connected to soma.	Distance:	2764.31
+		Component	3
+		# Nodes:	631
+		Operation: Connected to soma.	Distance:	25.931
+		Component	4
+		# Nodes:	1342
+		Operation: Connected to soma.	Distance:	45.0787
+		Component	5
+		# Nodes:	512
+		Operation: Connected to soma.	Distance:	36.3428
+		Component	6
+		# Nodes:	169
+		Operation: Connected to soma.	Distance:	86.8976
+		Component	7
+		# Nodes:	693
+		Operation: Connected to soma.	Distance:	106.953
+		Component	8
+		# Nodes:	763
+		Operation: Connected to soma.	Distance:	41.3715
+		Component	9
+		# Nodes:	83
+		Operation: Connected to soma.	Distance:	238.535
+		Component	10
+		# Nodes:	326
+		Operation: Connected to soma.	Distance:	52.0623
+		Component	11
+		# Nodes:	67
+		Operation: Connected to soma.	Distance:	260.383
+		Component	12
+		# Nodes:	44
+		Operation: Connected to soma.	Distance:	322.968
+		Component	13
+		# Nodes:	78
+		Operation: Connected to soma.	Distance:	163.318
+		Component	14
+		# Nodes:	26
+		Operation: Connected to soma.	Distance:	121.086
+		Component	15
+		# Nodes:	62
+		Operation: Connected to soma.	Distance:	302.72
+		Component	16
+		# Nodes:	125
+		Operation: Connected to soma.	Distance:	175.602
+		Component	17
+		# Nodes:	92
+		Operation: Connected to soma.	Distance:	349.555
+		Component	18
+		# Nodes:	274
+		Operation: Connected to soma.	Distance:	92.0477
+		Component	19
+		# Nodes:	14
+		Operation: Connected to soma.	Distance:	436.335
+		Component	20
+		# Nodes:	54
+		Operation: Connected to soma.	Distance:	244.156
+		Component	21
+		# Nodes:	29
+		Operation: Connected to soma.	Distance:	17.7602
+		Component	22
+		# Nodes:	582
+		Operation: Connected to soma.	Distance:	39.04
+		Component	23
+		# Nodes:	129
+		Operation: Connected to soma.	Distance:	170.197
+		Component	24
+		# Nodes:	239
+		Operation: Connected to soma.	Distance:	65.1517
+		Component	25
+		# Nodes:	409
+		Operation: Connected to soma.	Distance:	52.4653
+		Component	26
+		# Nodes:	38
+		Operation: Connected to soma.	Distance:	158.486
+		Component	27
+		# Nodes:	39
+		Operation: Connected to soma.	Distance:	220.821
+		Component	28
+		# Nodes:	129
+		Operation: Connected to soma.	Distance:	149.264
+		Component	29
+		# Nodes:	52
+		Operation: kept but not connected.	Distance:	10223.6
+		Component	30
+		# Nodes:	261
+		Operation: kept but not connected.	Distance:	10273.9
+		Component	31
+		# Nodes:	23
+		Operation: kept but not connected.	Distance:	10552.6
+		Component	32
+		# Nodes:	145
+		Operation: kept but not connected.	Distance:	10334.3
+		Component	33
+		# Nodes:	12
+		Operation: kept but not connected.	Distance:	10402.9
+		Component	34
+		# Nodes:	88
+		Operation: kept but not connected.	Distance:	10316.3
+9.19817
+9.95363
+9.48759
+7.92283
+5.92451
+welcom to use get_components
+	2 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_093.processed.apo
+Percentage_lost	1.612903%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_093.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_094_LiMin_WW_YJ_Lijliu_08182018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_094.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_094.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_094.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+0.943855
+0.373488
+0.943855
+3.9311
+4.4047
+2.49978
+4.38217
+3.8601
+3.25628
+1.3756
+0.775504
+2.46466
+0.775504
+3.32401
+3.30087
+3.50268
+2.49978
+3.47061
+4.40983
+4.59862
+4.66048
+3.6128
+3.96176
+0.373488
+4.37554
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	26 components found.
+	Total # components:	26
+	Connecting components to soma
+		Component	0
+		# Nodes:	9591
+		Operation: Connected to soma.	Distance:	48.3501
+		Component	1
+		# Nodes:	55
+		Operation: Connected to soma.	Distance:	3843.93
+		Component	2
+		# Nodes:	7
+		Operation: Connected to soma.	Distance:	4383.84
+		Component	3
+		# Nodes:	18
+		Operation: Connected to soma.	Distance:	4063.32
+		Component	4
+		# Nodes:	246
+		Operation: Connected to soma.	Distance:	85.9507
+		Component	5
+		# Nodes:	34
+		Operation: Connected to soma.	Distance:	119.055
+		Component	6
+		# Nodes:	104
+		Operation: Connected to soma.	Distance:	119.587
+		Component	7
+		# Nodes:	16
+		Operation: Connected to soma.	Distance:	152.112
+		Component	8
+		# Nodes:	75
+		Operation: Connected to soma.	Distance:	81.1241
+		Component	9
+		# Nodes:	393
+		Operation: Connected to soma.	Distance:	32.738
+		Component	10
+		# Nodes:	203
+		Operation: Connected to soma.	Distance:	42.284
+		Component	11
+		# Nodes:	789
+		Operation: Connected to soma.	Distance:	39.5216
+		Component	12
+		# Nodes:	196
+		Operation: Connected to soma.	Distance:	30.2162
+		Component	13
+		# Nodes:	134
+		Operation: Connected to soma.	Distance:	36.8132
+		Component	14
+		# Nodes:	32
+		Operation: Connected to soma.	Distance:	82.9593
+		Component	15
+		# Nodes:	19
+		Operation: Connected to soma.	Distance:	180.819
+		Component	16
+		# Nodes:	1
+		Operation: kept but not connected.	Distance:	9723
+		Component	17
+		# Nodes:	55
+		Operation: kept but not connected.	Distance:	9627.4
+		Component	18
+		# Nodes:	7
+		Operation: kept but not connected.	Distance:	9687.4
+		Component	19
+		# Nodes:	49
+		Operation: kept but not connected.	Distance:	9378.16
+		Component	20
+		# Nodes:	43
+		Operation: kept but not connected.	Distance:	9605
+		Component	21
+		# Nodes:	4
+		Operation: kept but not connected.	Distance:	10004
+		Component	22
+		# Nodes:	46
+		Operation: kept but not connected.	Distance:	9244.54
+		Component	23
+		# Nodes:	106
+		Operation: kept but not connected.	Distance:	9298.94
+		Component	24
+		# Nodes:	19
+		Operation: kept but not connected.	Distance:	10392.4
+		Component	25
+		# Nodes:	49
+		Operation: kept but not connected.	Distance:	9790.75
+7.27062
+8.65567
+6.48741
+5.83604
+5.27849
+9.70835
+5.3712
+8.05631
+6.64545
+5.94946
+6.26048
+6.48911
+7.10405
+9.84341
+5.3712
+7.73188
+7.85264
+welcom to use get_components
+	2 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_094.processed.apo
+Percentage_lost	0.008135%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_094.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_095_ZSJ_SYY_WW_LijLiu_08182018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_095.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_095.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_095.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.56507
+1.51442
+0.222733
+3.22735
+1.87131
+3.40543
+0.413071
+4.63321
+3.99402
+1.55335
+3.38819
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	12 components found.
+	Total # components:	12
+	Connecting components to soma
+		Component	0
+		# Nodes:	26668
+		Operation: Connected to soma.	Distance:	50.731
+		Component	1
+		# Nodes:	675
+		Operation: kept but not connected.	Distance:	9651.16
+		Component	2
+		# Nodes:	187
+		Operation: kept but not connected.	Distance:	9912.24
+		Component	3
+		# Nodes:	505
+		Operation: kept but not connected.	Distance:	9596.69
+		Component	4
+		# Nodes:	57
+		Operation: kept but not connected.	Distance:	9809.88
+		Component	5
+		# Nodes:	1463
+		Operation: Connected to soma.	Distance:	43.1772
+		Component	6
+		# Nodes:	1390
+		Operation: Connected to soma.	Distance:	55.5643
+		Component	7
+		# Nodes:	1409
+		Operation: Connected to soma.	Distance:	45.0084
+		Component	8
+		# Nodes:	2513
+		Operation: Connected to soma.	Distance:	30.1119
+		Component	9
+		# Nodes:	19
+		Operation: Connected to soma.	Distance:	232.05
+		Component	10
+		# Nodes:	454
+		Operation: Connected to soma.	Distance:	46.0233
+		Component	11
+		# Nodes:	366
+		Operation: Connected to soma.	Distance:	63.1489
+9.05668
+9.15451
+5.51967
+welcom to use get_components
+	2 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_095.processed.apo
+Percentage_lost	1.414289%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_095.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_116_CXY_WW_ZSJ_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_116.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_116.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_116.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+0.806953
+2.62997
+0.905671
+0.806953
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	8 components found.
+	Total # components:	8
+	Connecting components to soma
+		Component	0
+		# Nodes:	31240
+		Operation: Connected to soma.	Distance:	26.6997
+		Component	1
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	1557.48
+		Component	2
+		# Nodes:	269
+		Operation: Connected to soma.	Distance:	29.4781
+		Component	3
+		# Nodes:	719
+		Operation: Connected to soma.	Distance:	27.1018
+		Component	4
+		# Nodes:	689
+		Operation: Connected to soma.	Distance:	27.4229
+		Component	5
+		# Nodes:	352
+		Operation: Connected to soma.	Distance:	30.936
+		Component	6
+		# Nodes:	380
+		Operation: Connected to soma.	Distance:	24.5797
+		Component	7
+		# Nodes:	346
+		Operation: Connected to soma.	Distance:	31.1281
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_116.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_116.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_122_CXY_SYY_YJ_WW_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_122.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_122.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_122.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+0.708489
+3.90603
+3.2968
+4.18136
+2.69678
+2.34807
+1.53284
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	10 components found.
+	Total # components:	10
+	Connecting components to soma
+		Component	0
+		# Nodes:	10227
+		Operation: Connected to soma.	Distance:	33.389
+		Component	1
+		# Nodes:	5
+		Operation: kept but not connected.	Distance:	15715.8
+		Component	2
+		# Nodes:	372
+		Operation: Connected to soma.	Distance:	40.7583
+		Component	3
+		# Nodes:	987
+		Operation: Connected to soma.	Distance:	31.2207
+		Component	4
+		# Nodes:	962
+		Operation: Connected to soma.	Distance:	23.5353
+		Component	5
+		# Nodes:	82
+		Operation: Connected to soma.	Distance:	746.468
+		Component	6
+		# Nodes:	987
+		Operation: Connected to soma.	Distance:	20.1071
+		Component	7
+		# Nodes:	1
+		Operation: Connected to soma.	Distance:	228.406
+		Component	8
+		# Nodes:	40
+		Operation: Connected to soma.	Distance:	245.786
+		Component	9
+		# Nodes:	1
+		Operation: Connected to soma.	Distance:	499.108
+6.40312
+5.51673
+6.40312
+8.12583
+6.68697
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_122.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_122.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_142_YLL_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_142.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_142.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_142.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.57187
+3.2781
+1.96334
+0.59227
+4.44619
+3.9925
+4.85734
+0.59227
+4.43043
+4.24664
+2.04821
+1.37665
+0.764758
+0.984927
+3.55926
+1.37665
+3.59444
+1.56002
+3.73581
+1.43587
+0.764758
+4.21489
+2.7863
+0.984927
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	14 components found.
+	Total # components:	14
+	Connecting components to soma
+		Component	0
+		# Nodes:	906
+		Operation: Connected to soma.	Distance:	187.517
+		Component	1
+		# Nodes:	382
+		Operation: Connected to soma.	Distance:	42.6782
+		Component	2
+		# Nodes:	495
+		Operation: Connected to soma.	Distance:	36.7464
+		Component	3
+		# Nodes:	1709
+		Operation: Connected to soma.	Distance:	37.5975
+		Component	4
+		# Nodes:	48
+		Operation: Connected to soma.	Distance:	82.8515
+		Component	5
+		# Nodes:	1089
+		Operation: Connected to soma.	Distance:	30.2662
+		Component	6
+		# Nodes:	20
+		Operation: Connected to soma.	Distance:	43.2353
+		Component	7
+		# Nodes:	1214
+		Operation: Connected to soma.	Distance:	24.2898
+		Component	8
+		# Nodes:	530
+		Operation: Connected to soma.	Distance:	36.8568
+		Component	9
+		# Nodes:	25468
+		Operation: Connected to soma.	Distance:	47.2296
+		Component	10
+		# Nodes:	483
+		Operation: Connected to soma.	Distance:	46.0039
+		Component	11
+		# Nodes:	1020
+		Operation: Connected to soma.	Distance:	41.2305
+		Component	12
+		# Nodes:	18
+		Operation: kept but not connected.	Distance:	5743.9
+		Component	13
+		# Nodes:	57
+		Operation: kept but not connected.	Distance:	10420
+welcom to use get_components
+	3 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_142.processed.apo
+Percentage_lost	0.224282%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_142.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_143_CXY_SYY_WW_YJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_143.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_143.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_143.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.95719
+1.03078
+1.00575
+4.24694
+4.31641
+1.36187
+1.80295
+3.98475
+4.63681
+2.82015
+2.89814
+1.8981
+3.12689
+1.77746
+0.694371
+3.96323
+3.66342
+2.01126
+2.06637
+2.9963
+0.761168
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	6 components found.
+	Total # components:	6
+	Connecting components to soma
+		Component	0
+		# Nodes:	21286
+		Operation: Connected to soma.	Distance:	34.9681
+		Component	1
+		# Nodes:	54
+		Operation: Connected to soma.	Distance:	39.8694
+		Component	2
+		# Nodes:	273
+		Operation: Connected to soma.	Distance:	28.5393
+		Component	3
+		# Nodes:	7
+		Operation: Connected to soma.	Distance:	951.651
+		Component	4
+		# Nodes:	32
+		Operation: Connected to soma.	Distance:	777.805
+		Component	5
+		# Nodes:	175
+		Operation: Connected to soma.	Distance:	2381.86
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_143.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_143.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_144_CXY_WW_SYY_YJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_144.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_144.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_144.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.53452
+1.53259
+1.4854
+3.67672
+3.56867
+3.26694
+2.97307
+1.68498
+1.4854
+2.19657
+3.26694
+4.6123
+1.46305
+0.509062
+0.560067
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	6 components found.
+	Total # components:	6
+	Connecting components to soma
+		Component	0
+		# Nodes:	21598
+		Operation: Connected to soma.	Distance:	24.1905
+		Component	1
+		# Nodes:	409
+		Operation: Connected to soma.	Distance:	23.1723
+		Component	2
+		# Nodes:	2784
+		Operation: Connected to soma.	Distance:	36.6836
+		Component	3
+		# Nodes:	230
+		Operation: Connected to soma.	Distance:	33.6885
+		Component	4
+		# Nodes:	149
+		Operation: Connected to soma.	Distance:	30.7145
+		Component	5
+		# Nodes:	310
+		Operation: Connected to soma.	Distance:	25.7385
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_144.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_144.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_145_CXY_SYY_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_145.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_145.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_145.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.58309
+4.74747
+1.15998
+0.374272
+2.10628
+4.58309
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	8 components found.
+	Total # components:	8
+	Connecting components to soma
+		Component	0
+		# Nodes:	32438
+		Operation: Connected to soma.	Distance:	30.7545
+		Component	1
+		# Nodes:	1289
+		Operation: Connected to soma.	Distance:	217.571
+		Component	2
+		# Nodes:	975
+		Operation: Connected to soma.	Distance:	64.696
+		Component	3
+		# Nodes:	787
+		Operation: Connected to soma.	Distance:	24.8502
+		Component	4
+		# Nodes:	561
+		Operation: Connected to soma.	Distance:	32.0181
+		Component	5
+		# Nodes:	535
+		Operation: Connected to soma.	Distance:	22.6364
+		Component	6
+		# Nodes:	25
+		Operation: Connected to soma.	Distance:	202.595
+		Component	7
+		# Nodes:	244
+		Operation: Connected to soma.	Distance:	18.9151
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_145.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_145.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_149_YLL_SYY_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_149.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_149.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_149.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.91035
+4.49665
+4.34515
+4.91035
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	7 components found.
+	Total # components:	7
+	Connecting components to soma
+		Component	0
+		# Nodes:	19405
+		Operation: Connected to soma.	Distance:	23.8055
+		Component	1
+		# Nodes:	335
+		Operation: Connected to soma.	Distance:	21.4779
+		Component	2
+		# Nodes:	254
+		Operation: Connected to soma.	Distance:	49.9366
+		Component	3
+		# Nodes:	215
+		Operation: Connected to soma.	Distance:	38.0661
+		Component	4
+		# Nodes:	451
+		Operation: Connected to soma.	Distance:	40.0462
+		Component	5
+		# Nodes:	124
+		Operation: Connected to soma.	Distance:	24.2213
+		Component	6
+		# Nodes:	174
+		Operation: Connected to soma.	Distance:	39.5657
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_149.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_149.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_150_CXY_SYY_YJ_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_150.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_150.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_150.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3.81669
+3.8004
+0.26985
+3.57644
+2.95188
+3.5666
+2.37747
+0.26985
+3.40471
+4.27259
+3.40471
+1.72264
+2.0426
+0.869314
+2.62438
+0.60751
+4.12311
+0.903942
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	10 components found.
+	Total # components:	10
+	Connecting components to soma
+		Component	0
+		# Nodes:	25013
+		Operation: Connected to soma.	Distance:	30.3611
+		Component	1
+		# Nodes:	84
+		Operation: kept but not connected.	Distance:	5311.49
+		Component	2
+		# Nodes:	21
+		Operation: Connected to soma.	Distance:	4609.15
+		Component	3
+		# Nodes:	14
+		Operation: Connected to soma.	Distance:	4759.43
+		Component	4
+		# Nodes:	5
+		Operation: Connected to soma.	Distance:	1204.36
+		Component	5
+		# Nodes:	206
+		Operation: Connected to soma.	Distance:	44.78
+		Component	6
+		# Nodes:	570
+		Operation: Connected to soma.	Distance:	36.8989
+		Component	7
+		# Nodes:	261
+		Operation: Connected to soma.	Distance:	29.5283
+		Component	8
+		# Nodes:	106
+		Operation: Connected to soma.	Distance:	25.3523
+		Component	9
+		# Nodes:	85
+		Operation: Connected to soma.	Distance:	20.5975
+9.50445
+6.8498
+5.75147
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_150.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_150.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_158_YJ_WW_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_158.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_158.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_158.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.56806
+4.41652
+4.44638
+0.223614
+4.44638
+4.75123
+4.61716
+4.48376
+2.2318
+4.75292
+2.05956
+0.223614
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	6 components found.
+	Total # components:	6
+	Connecting components to soma
+		Component	0
+		# Nodes:	29507
+		Operation: Connected to soma.	Distance:	26.9969
+		Component	1
+		# Nodes:	1159
+		Operation: Connected to soma.	Distance:	207.567
+		Component	2
+		# Nodes:	363
+		Operation: Connected to soma.	Distance:	27.3269
+		Component	3
+		# Nodes:	116
+		Operation: Connected to soma.	Distance:	24.9433
+		Component	4
+		# Nodes:	105
+		Operation: Connected to soma.	Distance:	103.768
+		Component	5
+		# Nodes:	8
+		Operation: Connected to soma.	Distance:	1767.2
+welcom to use get_components
+	1 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_158.processed.apo
+Percentage_lost	0.000000%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_158.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_162_CXY_SYY_ZSJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_162.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_162.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_162.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.55273
+2.27909
+4.44589
+1.15914
+3.73296
+2.6479
+3.90404
+1.39469
+3.29536
+3.40982
+1.80726
+0.67962
+3.18035
+1.15914
+0.985817
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	10 components found.
+	Total # components:	10
+	Connecting components to soma
+		Component	0
+		# Nodes:	35572
+		Operation: Connected to soma.	Distance:	34.1304
+		Component	1
+		# Nodes:	301
+		Operation: kept but not connected.	Distance:	10455.9
+		Component	2
+		# Nodes:	130
+		Operation: kept but not connected.	Distance:	10745.2
+		Component	3
+		# Nodes:	335
+		Operation: kept but not connected.	Distance:	10929.4
+		Component	4
+		# Nodes:	3
+		Operation: kept but not connected.	Distance:	10798.2
+		Component	5
+		# Nodes:	2861
+		Operation: Connected to soma.	Distance:	58.6263
+		Component	6
+		# Nodes:	900
+		Operation: Connected to soma.	Distance:	47.1168
+		Component	7
+		# Nodes:	182
+		Operation: Connected to soma.	Distance:	54.3363
+		Component	8
+		# Nodes:	861
+		Operation: Connected to soma.	Distance:	19.1237
+		Component	9
+		# Nodes:	933
+		Operation: Connected to soma.	Distance:	38.8031
+7.94246
+7.20383
+9.32703
+7
+5.90126
+welcom to use get_components
+	3 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_162.processed.apo
+Percentage_lost	0.722451%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_162.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_166_CXY_ZSJ_YJ_08302018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_166.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_166.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_166.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.19016
+2.23647
+1.42272
+4.54089
+4.10711
+1.75887
+1
+3.43863
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	12 components found.
+	Total # components:	12
+	Connecting components to soma
+		Component	0
+		# Nodes:	25658
+		Operation: Connected to soma.	Distance:	30.5069
+		Component	1
+		# Nodes:	207
+		Operation: Connected to soma.	Distance:	4884.8
+		Component	2
+		# Nodes:	910
+		Operation: Connected to soma.	Distance:	25.0333
+		Component	3
+		# Nodes:	356
+		Operation: Connected to soma.	Distance:	31.4812
+		Component	4
+		# Nodes:	2114
+		Operation: Connected to soma.	Distance:	22.463
+		Component	5
+		# Nodes:	361
+		Operation: Connected to soma.	Distance:	94.7523
+		Component	6
+		# Nodes:	1317
+		Operation: Connected to soma.	Distance:	10.1309
+		Component	7
+		# Nodes:	112
+		Operation: Connected to soma.	Distance:	20.6733
+		Component	8
+		# Nodes:	1074
+		Operation: kept but not connected.	Distance:	7308.26
+		Component	9
+		# Nodes:	428
+		Operation: kept but not connected.	Distance:	7961.2
+		Component	10
+		# Nodes:	128
+		Operation: kept but not connected.	Distance:	8171.78
+		Component	11
+		# Nodes:	133
+		Operation: kept but not connected.	Distance:	8281.53
+9.17661
+7.22576
+welcom to use get_components
+	4 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_166.processed.apo
+Percentage_lost	4.969664%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_166.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_169_CXY_SYY_YJ_08312018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_169.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_169.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_169.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+3
+1.41506
+3.626
+1.68959
+4.6257
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	18 components found.
+	Total # components:	18
+	Connecting components to soma
+		Component	0
+		# Nodes:	36829
+		Operation: Connected to soma.	Distance:	45.4226
+		Component	1
+		# Nodes:	188
+		Operation: Connected to soma.	Distance:	2914.29
+		Component	2
+		# Nodes:	45
+		Operation: kept but not connected.	Distance:	8780.76
+		Component	3
+		# Nodes:	36
+		Operation: kept but not connected.	Distance:	9362.32
+		Component	4
+		# Nodes:	1839
+		Operation: Connected to soma.	Distance:	34.6303
+		Component	5
+		# Nodes:	1900
+		Operation: Connected to soma.	Distance:	10.2998
+		Component	6
+		# Nodes:	1557
+		Operation: Connected to soma.	Distance:	32.4491
+		Component	7
+		# Nodes:	1001
+		Operation: Connected to soma.	Distance:	22.729
+		Component	8
+		# Nodes:	292
+		Operation: Connected to soma.	Distance:	45.9587
+		Component	9
+		# Nodes:	53
+		Operation: Connected to soma.	Distance:	27.0289
+		Component	10
+		# Nodes:	17
+		Operation: kept but not connected.	Distance:	7867.46
+		Component	11
+		# Nodes:	20
+		Operation: kept but not connected.	Distance:	8014.03
+		Component	12
+		# Nodes:	117
+		Operation: kept but not connected.	Distance:	9213.78
+		Component	13
+		# Nodes:	288
+		Operation: kept but not connected.	Distance:	9268.62
+		Component	14
+		# Nodes:	199
+		Operation: kept but not connected.	Distance:	9186.65
+		Component	15
+		# Nodes:	61
+		Operation: kept but not connected.	Distance:	9078.78
+		Component	16
+		# Nodes:	47
+		Operation: kept but not connected.	Distance:	9407.66
+		Component	17
+		# Nodes:	47
+		Operation: kept but not connected.	Distance:	9440.2
+9.60107
+9.36311
+8.39464
+7.73156
+6.08276
+5.02034
+6.88328
+welcom to use get_components
+	8 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_169.processed.apo
+Percentage_lost	1.140625%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_169.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_170_SyyChenXP_LijLiu_HGD_08192018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_170.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_170.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_170.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+1.79733
+0.140896
+2.04103
+1.38784
+4.67735
+3.46419
+3.2325
+1.86723
+3.68635
+3.42365
+2.97121
+3.02763
+1.47378
+0.877631
+3.56185
+4.89711
+2.05766
+1.88777
+1.68958
+4.90037
+3.31387
+1.94386
+2.90864
+0.92238
+4.617
+0.575274
+4.90216
+1.80058
+1.08196
+1.19272
+1.71615
+0.877631
+4.35106
+3.56303
+4.63764
+3.07447
+4.64829
+1.26693
+0.575274
+4.68102
+1.39726
+1.22602
+2.37582
+1.8173
+3.56987
+3.11957
+4.31941
+4.22078
+3.45353
+3.11957
+4.01259
+1.30102
+4.2713
+2.26281
+4.60657
+2.17235
+0.916347
+1.30102
+4.49189
+2.50097
+1.44558
+0.916347
+4.47008
+3.11293
+2.14614
+4.91805
+1.74761
+1.94386
+2.79539
+2.61915
+2.45088
+1.74761
+4.65145
+4.19535
+1.26693
+2.40926
+3.36057
+3.95666
+2.13995
+0.85065
+1.38784
+1.52649
+1.41813
+4.7625
+4.59978
+3.13112
+2.04103
+3.53553
+2.86288
+3.90934
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	38 components found.
+	Total # components:	38
+	Connecting components to soma
+		Component	0
+		# Nodes:	40398
+		Operation: Connected to soma.	Distance:	24.2224
+		Component	1
+		# Nodes:	3
+		Operation: Connected to soma.	Distance:	4901.87
+		Component	2
+		# Nodes:	5
+		Operation: Connected to soma.	Distance:	3513.5
+		Component	3
+		# Nodes:	1
+		Operation: Connected to soma.	Distance:	3515.28
+		Component	4
+		# Nodes:	6
+		Operation: Connected to soma.	Distance:	3534.65
+		Component	5
+		# Nodes:	1105
+		Operation: Connected to soma.	Distance:	62.2484
+		Component	6
+		# Nodes:	182
+		Operation: Connected to soma.	Distance:	36.1143
+		Component	7
+		# Nodes:	509
+		Operation: Connected to soma.	Distance:	81.0935
+		Component	8
+		# Nodes:	1742
+		Operation: Connected to soma.	Distance:	41.2431
+		Component	9
+		# Nodes:	72
+		Operation: Connected to soma.	Distance:	53.5453
+		Component	10
+		# Nodes:	201
+		Operation: Connected to soma.	Distance:	21.8169
+		Component	11
+		# Nodes:	25
+		Operation: Connected to soma.	Distance:	95.6744
+		Component	12
+		# Nodes:	70
+		Operation: Connected to soma.	Distance:	85.1197
+		Component	13
+		# Nodes:	941
+		Operation: Connected to soma.	Distance:	59.5484
+		Component	14
+		# Nodes:	140
+		Operation: Connected to soma.	Distance:	44.4834
+		Component	15
+		# Nodes:	483
+		Operation: Connected to soma.	Distance:	36.6731
+		Component	16
+		# Nodes:	315
+		Operation: Connected to soma.	Distance:	24.9761
+		Component	17
+		# Nodes:	269
+		Operation: Connected to soma.	Distance:	19.9465
+		Component	18
+		# Nodes:	309
+		Operation: Connected to soma.	Distance:	94.732
+		Component	19
+		# Nodes:	12
+		Operation: Connected to soma.	Distance:	114.112
+		Component	20
+		# Nodes:	44
+		Operation: Connected to soma.	Distance:	95.6732
+		Component	21
+		# Nodes:	27
+		Operation: Connected to soma.	Distance:	94.9246
+		Component	22
+		# Nodes:	75
+		Operation: Connected to soma.	Distance:	135.473
+		Component	23
+		# Nodes:	67
+		Operation: Connected to soma.	Distance:	272.405
+		Component	24
+		# Nodes:	65
+		Operation: Connected to soma.	Distance:	165.823
+		Component	25
+		# Nodes:	165
+		Operation: kept but not connected.	Distance:	7059.02
+		Component	26
+		# Nodes:	178
+		Operation: kept but not connected.	Distance:	8088.74
+		Component	27
+		# Nodes:	312
+		Operation: kept but not connected.	Distance:	7620.17
+		Component	28
+		# Nodes:	200
+		Operation: kept but not connected.	Distance:	7634.11
+		Component	29
+		# Nodes:	209
+		Operation: kept but not connected.	Distance:	8007.21
+		Component	30
+		# Nodes:	121
+		Operation: kept but not connected.	Distance:	7890.11
+		Component	31
+		# Nodes:	15
+		Operation: kept but not connected.	Distance:	8009.8
+		Component	32
+		# Nodes:	29
+		Operation: kept but not connected.	Distance:	8311.65
+		Component	33
+		# Nodes:	136
+		Operation: kept but not connected.	Distance:	7821.64
+		Component	34
+		# Nodes:	17
+		Operation: kept but not connected.	Distance:	7885.73
+		Component	35
+		# Nodes:	5
+		Operation: kept but not connected.	Distance:	8042.24
+		Component	36
+		# Nodes:	6
+		Operation: kept but not connected.	Distance:	8082.39
+		Component	37
+		# Nodes:	38
+		Operation: kept but not connected.	Distance:	8595.63
+7.85824
+9.29133
+7.81535
+5.15544
+8.97356
+welcom to use get_components
+	9 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_170.processed.apo
+Percentage_lost	1.643367%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_170.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_173_YLL_ZSJ_LijLiu_08162018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_173.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_173.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_173.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+4.82798
+3.45299
+2.40957
+3.87171
+1.75099
+4.48383
+2.13745
+1.75099
+0.222733
+0.222733
+4.29873
+0.715457
+1.27031
+2.27698
+0.142257
+0.92238
+4.19139
+1.27031
+3.87239
+0.715457
+4.59993
+1.26368
+3.19352
+1.812
+0.921107
+4.3615
+3.13035
+1.70802
+1.26368
+2.89428
+1.71042
+2.66891
+2.34862
+1.93011
+4.69864
+1.80624
+2.53969
+4.05521
+1.38722
+3.12079
+4.13038
+1.526
+4.33309
+1.11849
+2.34862
+3.19433
+3.50501
+1.84047
+1.60115
+4.29218
+1.93011
+2.25534
+2.56287
+1.84694
+2.6148
+0.833204
+2.34521
+3.55196
+4.66838
+0.941992
+3.87356
+4.21554
+1.92045
+1.9812
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	18 components found.
+	Total # components:	18
+	Connecting components to soma
+		Component	0
+		# Nodes:	22765
+		Operation: Connected to soma.	Distance:	44.6439
+		Component	1
+		# Nodes:	467
+		Operation: Connected to soma.	Distance:	42.049
+		Component	2
+		# Nodes:	992
+		Operation: Connected to soma.	Distance:	28.9729
+		Component	3
+		# Nodes:	1784
+		Operation: Connected to soma.	Distance:	24.8959
+		Component	4
+		# Nodes:	503
+		Operation: Connected to soma.	Distance:	34.5474
+		Component	5
+		# Nodes:	112
+		Operation: Connected to soma.	Distance:	104.134
+		Component	6
+		# Nodes:	1801
+		Operation: Connected to soma.	Distance:	27.5341
+		Component	7
+		# Nodes:	533
+		Operation: Connected to soma.	Distance:	24.5564
+		Component	8
+		# Nodes:	348
+		Operation: Connected to soma.	Distance:	25.6938
+		Component	9
+		# Nodes:	655
+		Operation: Connected to soma.	Distance:	35.6536
+		Component	10
+		# Nodes:	224
+		Operation: Connected to soma.	Distance:	19.4645
+		Component	11
+		# Nodes:	1324
+		Operation: kept but not connected.	Distance:	6951.52
+		Component	12
+		# Nodes:	141
+		Operation: kept but not connected.	Distance:	7328.76
+		Component	13
+		# Nodes:	177
+		Operation: kept but not connected.	Distance:	7397.82
+		Component	14
+		# Nodes:	269
+		Operation: kept but not connected.	Distance:	7580.89
+		Component	15
+		# Nodes:	56
+		Operation: kept but not connected.	Distance:	7534.21
+		Component	16
+		# Nodes:	74
+		Operation: kept but not connected.	Distance:	7464.77
+		Component	17
+		# Nodes:	201
+		Operation: kept but not connected.	Distance:	7826.23
+9.67067
+9.20028
+8.50822
+welcom to use get_components
+	6 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_173.processed.apo
+Percentage_lost	2.001419%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_173.processed.swc has been generated successfully.
+Starting Vaa3D version checker...
+/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_AllFinished_Neurons/17545_174_SyyYuanJia_WW_LijLiu_08162018.ano.eswc
+[vaa3d64]
+[-x]
+[preprocess]
+[-f]
+[preprocess]
+[-p]
+[#i /Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_174.swc #o /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_174.processed.swc #l 2 #s 0 #m 5000 #t 5 #r 0 #d 0 #f 0]
+Current canonical path = [preprocess]
+plugins
+Input file name:	/Users/pengxie/Documents/Morph_analysis/data/temp_dir/17545_AllFinished_Neurons_174.swc
+Compartments will not be labeled
+Report main tree and subtrees
+welcome to use pre_processing!
+	Loading swc
+	Removing duplicates
+	Pruning short branches
+2.64151
+4.29336
+0.949098
+3.38203
+2.55043
+4.17493
+2.53147
+1.44828
+1.96487
+2.60798
+2.22994
+2.65651
+3.85801
+3.57692
+3.2901
+3.03261
+2.03405
+2.98618
+1.75575
+3.76588
+3.18371
+2.66254
+1.30839
+2.0831
+4.91617
+1.30839
+1.4162
+4.8506
+4.89791
+1.60103
+2.48939
+3.85801
+1.4162
+4.05423
+3.40808
+4.02061
+2.98618
+3.64279
+4.44187
+1.62269
+4.29923
+2.25309
+2.55397
+2.25309
+4.76181
+3.24545
+4.91291
+3.40268
+2.74318
+4.66754
+2.74318
+0.949098
+3.60256
+1.70002
+4.08611
+1.97789
+1.75642
+1.75642
+2.64151
+1.68671
+4.29336
+4.11824
+3.18331
+4.84156
+3.22563
+0.411178
+3.91809
+1.62877
+0.627558
+2.67472
+2.46852
+4.21007
+4.76181
+3.91809
+4.02504
+2.84547
+0.627558
+3.3945
+1.93221
+4.55765
+4.31625
+2.7689
+3.15822
+1.23187
+3.93818
+3.17652
+3.06444
+1.46821
+3.38203
+	Resampling
+Skip Resampling
+	Connecting to soma
+Running connect_soma
+welcom to use get_components
+	42 components found.
+	Total # components:	42
+	Connecting components to soma
+		Component	0
+		# Nodes:	10786
+		Operation: Connected to soma.	Distance:	44.5209
+		Component	1
+		# Nodes:	344
+		Operation: Connected to soma.	Distance:	20.4994
+		Component	2
+		# Nodes:	111
+		Operation: Connected to soma.	Distance:	82.0146
+		Component	3
+		# Nodes:	64
+		Operation: Connected to soma.	Distance:	79.6327
+		Component	4
+		# Nodes:	86
+		Operation: Connected to soma.	Distance:	149.857
+		Component	5
+		# Nodes:	32
+		Operation: Connected to soma.	Distance:	74.7011
+		Component	6
+		# Nodes:	102
+		Operation: Connected to soma.	Distance:	87.5345
+		Component	7
+		# Nodes:	608
+		Operation: Connected to soma.	Distance:	30.5737
+		Component	8
+		# Nodes:	243
+		Operation: Connected to soma.	Distance:	22.786
+		Component	9
+		# Nodes:	66
+		Operation: Connected to soma.	Distance:	100.507
+		Component	10
+		# Nodes:	253
+		Operation: Connected to soma.	Distance:	29.7143
+		Component	11
+		# Nodes:	754
+		Operation: Connected to soma.	Distance:	25.42
+		Component	12
+		# Nodes:	383
+		Operation: Connected to soma.	Distance:	95.7846
+		Component	13
+		# Nodes:	271
+		Operation: Connected to soma.	Distance:	161.732
+		Component	14
+		# Nodes:	123
+		Operation: Connected to soma.	Distance:	220.196
+		Component	15
+		# Nodes:	59
+		Operation: Connected to soma.	Distance:	342.457
+		Component	16
+		# Nodes:	152
+		Operation: Connected to soma.	Distance:	89.084
+		Component	17
+		# Nodes:	74
+		Operation: Connected to soma.	Distance:	149.765
+		Component	18
+		# Nodes:	9
+		Operation: Connected to soma.	Distance:	239.618
+		Component	19
+		# Nodes:	154
+		Operation: kept but not connected.	Distance:	10424
+		Component	20
+		# Nodes:	158
+		Operation: kept but not connected.	Distance:	10412.7
+		Component	21
+		# Nodes:	48
+		Operation: kept but not connected.	Distance:	10494.6
+		Component	22
+		# Nodes:	82
+		Operation: kept but not connected.	Distance:	10519.3
+		Component	23
+		# Nodes:	315
+		Operation: kept but not connected.	Distance:	10418.3
+		Component	24
+		# Nodes:	40
+		Operation: kept but not connected.	Distance:	10603.2
+		Component	25
+		# Nodes:	25
+		Operation: kept but not connected.	Distance:	10580.9
+		Component	26
+		# Nodes:	19
+		Operation: kept but not connected.	Distance:	10797.7
+		Component	27
+		# Nodes:	59
+		Operation: kept but not connected.	Distance:	10685.4
+		Component	28
+		# Nodes:	22
+		Operation: kept but not connected.	Distance:	10963.2
+		Component	29
+		# Nodes:	283
+		Operation: kept but not connected.	Distance:	10447
+		Component	30
+		# Nodes:	62
+		Operation: kept but not connected.	Distance:	10432.7
+		Component	31
+		# Nodes:	7
+		Operation: kept but not connected.	Distance:	10650.9
+		Component	32
+		# Nodes:	51
+		Operation: kept but not connected.	Distance:	10630.1
+		Component	33
+		# Nodes:	76
+		Operation: kept but not connected.	Distance:	10585.6
+		Component	34
+		# Nodes:	41
+		Operation: kept but not connected.	Distance:	10596.3
+		Component	35
+		# Nodes:	13
+		Operation: kept but not connected.	Distance:	10940.2
+		Component	36
+		# Nodes:	4
+		Operation: kept but not connected.	Distance:	10901.7
+		Component	37
+		# Nodes:	16
+		Operation: kept but not connected.	Distance:	10928.7
+		Component	38
+		# Nodes:	19
+		Operation: kept but not connected.	Distance:	11050.2
+		Component	39
+		# Nodes:	39
+		Operation: kept but not connected.	Distance:	10645.2
+		Component	40
+		# Nodes:	30
+		Operation: kept but not connected.	Distance:	11043.3
+		Component	41
+		# Nodes:	16
+		Operation: kept but not connected.	Distance:	10977.5
+7.16848
+7.07127
+6.64235
+6.7007
+7.79181
+9.04149
+9.77725
+6.83947
+8.94001
+welcom to use get_components
+	18 components found.
+done with saving file: /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_174.processed.apo
+Percentage_lost	7.118012%
+	Skip PCA alignment
+	 /Users/pengxie/Documents/Morph_analysis/data/processed_swc/17545_AllFinished_Neurons_174.processed.swc has been generated successfully.
+Starting Vaa3D version checker...

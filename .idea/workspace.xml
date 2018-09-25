@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2288ed9b-3d50-45d3-a50b-b1ee9cd7b31a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/17302_cmd_new.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/17545_cmd_new.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/combine_feartures.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/run_by_directory.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/split_neuron.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cmd.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/feature.names" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/17302_CPU.dendrite.features" beforeDir="false" afterPath="$PROJECT_DIR$/data/features/17302_CPU.dendrite.features" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/features/17302_CPU.long_axon.features" beforeDir="false" afterPath="$PROJECT_DIR$/data/features/17302_CPU.long_axon.features" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/get_features.sh" beforeDir="false" afterPath="$PROJECT_DIR$/data/get_features.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU.axon.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_001.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_002.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_003.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_004.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_005.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_006.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_007.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_008.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_009.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_010.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_011.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_012.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_013.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_014.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_015.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_016.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_017.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_018.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_020.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_027.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_030.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_031.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_032.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_042.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_043.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_044.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_045.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_046.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_050.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_055.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_056.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_057.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_062.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_063.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_074.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_075.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_081.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_082.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_083.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_084.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_085.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_086.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_087.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_088.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_089.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_091.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_092.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_093.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_095.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_096.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_097.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_101.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_103.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_105.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_106.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_107.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_108.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_109.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_110.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_111.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_123.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/CPU_124.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_039.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_040.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_048.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_049.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.QC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.axon.retype.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.dendrite.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.long_axon.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/LGN_064.processed.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed_swc/mylinker.long_axon.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_001.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_001.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_001.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_001.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_001.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_001.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_002.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_002.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_002.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_002.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_002.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_002.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_003.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_003.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_003.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_003.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_003.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_003.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_004.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_004.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_004.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_004.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_004.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_004.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_005.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_005.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_005.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_005.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_005.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_005.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_006.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_006.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_006.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_006.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_006.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_006.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_007.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_007.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_007.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_007.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_007.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_007.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_008.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_008.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_008.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_008.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_008.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_008.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_009.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_009.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_009.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_009.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_009.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_009.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_010.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_010.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_010.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_010.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_010.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_010.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_011.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_011.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_011.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_011.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_011.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_011.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_012.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_012.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_012.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_012.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_012.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_012.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_013.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_013.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_013.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_013.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_013.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_013.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_014.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_014.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_014.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_014.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_014.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_014.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_015.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_015.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_015.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_015.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_015.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_015.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_016.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_016.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_016.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_016.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_016.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_016.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_017.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_017.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_017.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_017.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_017.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_017.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_018.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_018.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_018.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_018.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_018.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_018.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_020.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_020.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_020.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_020.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_020.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_020.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_027.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_027.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_027.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_027.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_027.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_027.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_030.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_030.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_030.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_030.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_030.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_030.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_031.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_031.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_031.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_031.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_031.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_031.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_032.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_032.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_032.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_032.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_032.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_032.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_042.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_042.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_042.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_042.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_042.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_042.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_043.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_043.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_043.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_043.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_043.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_043.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_044.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_044.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_044.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_044.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_044.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_044.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_045.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_045.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_045.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_045.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_045.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_045.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_046.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_046.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_046.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_046.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_046.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_046.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_050.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_050.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_050.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_050.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_050.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_050.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_055.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_055.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_055.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_055.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_055.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_055.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_056.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_056.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_056.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_056.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_056.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_056.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_057.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_057.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_057.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_057.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_057.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_057.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_062.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_062.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_062.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_062.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_062.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_062.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_063.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_063.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_063.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_063.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_063.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_063.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_074.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_074.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_074.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_074.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_074.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_074.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_075.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_075.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_075.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_075.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_075.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_075.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_081.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_081.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_081.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_081.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_081.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_081.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_082.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_082.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_082.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_082.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_082.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_082.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_083.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_083.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_083.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_083.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_083.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_083.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_084.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_084.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_084.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_084.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_084.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_084.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_085.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_085.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_085.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_085.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_085.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_085.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_086.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_086.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_086.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_086.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_086.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_086.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_087.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_087.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_087.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_087.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_087.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_087.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_088.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_088.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_088.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_088.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_088.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_088.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_089.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_089.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_089.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_089.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_089.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_089.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_091.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_091.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_091.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_091.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_091.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_091.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_092.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_092.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_092.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_092.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_092.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_092.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_093.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_093.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_093.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_093.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_093.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_093.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_095.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_095.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_095.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_095.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_095.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_095.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_096.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_096.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_096.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_096.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_096.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_096.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_097.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_097.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_097.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_097.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_097.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_097.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_101.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_101.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_101.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_101.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_101.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_101.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_103.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_103.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_103.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_103.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_103.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_103.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_105.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_105.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_105.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_105.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_105.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_105.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_106.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_106.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_106.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_106.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_106.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_106.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_107.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_107.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_107.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_107.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_107.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_107.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_108.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_108.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_108.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_108.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_108.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_108.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_109.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_109.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_109.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_109.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_109.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_109.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_110.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_110.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_110.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_110.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_110.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_110.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_111.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_111.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_111.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_111.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_111.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_111.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_123.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_123.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_123.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_123.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_123.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_123.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_124.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_124.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_124.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_124.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_124.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/CPU_124.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_039.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_039.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_039.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_039.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_039.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_039.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_040.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_040.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_040.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_040.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_040.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_040.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_048.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_048.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_048.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_048.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_048.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_048.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_049.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_049.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_049.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_049.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_049.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_049.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_064.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_064.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_064.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_064.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_064.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_064.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_065.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_065.dendrite.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_065.long_axon.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_065.processed.QC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_065.processed.QC.header" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_065.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_066.apo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/LGN_066.swc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/mylinker.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/mylinker.test.1.ano" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/temp_dir/mylinker.test.2.ano" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1529391292">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+          <entry key="Scratch" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="py" value="897" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="895" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/utilities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utilities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="85" selection-start-line="33" selection-start-column="85" selection-end-line="33" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/scratch.py" />
+        <option value="$PROJECT_DIR$/data_stream.py" />
+        <option value="$PROJECT_DIR$/utilities.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="146" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="935" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Morph_analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (Morph_analysis) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (Morph_analysis) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (Morph_analysis) (1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Morph_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.scratch (1)">
+    <configuration name="scratch (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Morph_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_stream.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python">
+      <module name="Morph_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utilities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Morph_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.scratch" />
+      <item itemvalue="Python.scratch (1)" />
+      <item itemvalue="Python.utilities" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch (1)" />
+        <item itemvalue="Python.utilities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2288ed9b-3d50-45d3-a50b-b1ee9cd7b31a" name="Default Changelist" comment="" />
+      <created>1534892329365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534892329365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="146" y="23" width="1400" height="935" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976275" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#532#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="85" selection-start-line="33" selection-start-column="85" selection-end-line="33" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

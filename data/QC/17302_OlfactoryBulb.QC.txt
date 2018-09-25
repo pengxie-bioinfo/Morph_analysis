@@ -1,0 +1,5 @@
+ID	051	058	060
+Type	OlfactoryBulb	OlfactoryBulb	OlfactoryBulb
+Percentage_lost(%)	0.000000	0.000000	0.000000
+Number_single_trees	0	0	0
+Exist_duplicate_nodes	1	1	1

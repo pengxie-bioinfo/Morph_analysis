@@ -1,0 +1,5 @@
+ID	099
+Type	Lateral_Amygdala
+Percentage_lost(%)	7.910025
+Number_single_trees	0
+Exist_duplicate_nodes	1

@@ -1,0 +1,10 @@
+SWCFILE=processed_swc/CPU_012.processed.dendrite.swc
+SWCFILE=processed_swc/CPU_108.processed.dendrite.swc
+SWCFILE=processed_swc/LGN_039.processed.dendrite.swc
+SWCFILE=processed_swc/LGN_049.processed.dendrite.swc
+SWCFILE=processed_swc/LGN_119.processed.dendrite.swc
+SWCFILE=processed_swc/Thalamuscells_041.processed.dendrite.swc
+SWCFILE=processed_swc/LGN_121.processed.dendrite.swc
+SWCFILE=processed_swc/Thalamuscells_053.processed.dendrite.swc
+SWCFILE=processed_swc/CPU_020.processed.dendrite.swc
+SWCFILE=processed_swc/Thalamuscells_113.processed.dendrite.swc

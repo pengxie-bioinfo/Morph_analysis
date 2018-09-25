@@ -1,0 +1,5 @@
+ID	076	038	116	078	115	114	035	037	077	125	112	034	021	024	041	036	053	079	023	052	113	025	080	054
+Type	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells
+Percentage_lost(%)	38.400384	11.668157	0.587639	1.838926	0.996045	1.039006	75.681719	10.658814	1.739948	94.159759	8.968645	9.086520	87.073687	3.776440	2.989426	1.554891	1.123484	8.074711	5.060901	3.726210	0.000000	1.231771	10.284610	80.713474
+Number_single_trees	8	18	2	3	3	2	8	19	4	5	8	15	10	11	6	5	5	13	8	25	1	25	30	28
+Exist_duplicate_nodes	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
