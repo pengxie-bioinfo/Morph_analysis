@@ -1,2 +1,2 @@
-SWCFILE=083.15.confidence.swc
-APOFILE=083.15.confidence.apo
+APOFILE=083.15.confidence.ano.apo
+SWCFILE=083.15.confidence.ano.eswc
