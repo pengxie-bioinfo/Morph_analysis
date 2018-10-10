@@ -1,0 +1,9 @@
+input1,../auto_3/001_auto_3.cropped.swc
+intput2,../processed/001.cropped.swc
+entire-structure-average_(from_neuron_1_to_2),3.85712
+entire-structure-average_(from_neuron_2_to_1),2.99958
+average_of_bi-directional_entire-structure-averages,3.42835
+differen-structure-average,22.9121
+percent_of_different-structure_(from_neuron_1_to_2),0.128625
+percent_of_different-structure_(from_neuron_2_to_1),0.073941
+percent_of_different-structure_(average),0.101283

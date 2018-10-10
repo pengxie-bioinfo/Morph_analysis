@@ -1,0 +1,5 @@
+#name 
+#comment 
+##n,type,x,y,z,radius,parent,seg_id,level,feature_value
+1 6 20937.301 37314.000 2547.330 1.000 2 -1 146
+2 6 20926.000 37314.000 2542.000 1.000 -1 -1 146
