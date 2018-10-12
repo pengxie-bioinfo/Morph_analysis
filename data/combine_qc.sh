@@ -10,7 +10,7 @@ source ./config.conf
 swc_path=$(echo ${swc_prefix}${cell_type})
 cur_path=$(pwd)
 
-for cell_name in $(ls -lSr ${swc_path}/*swc |awk -F " " '{print $9}' |awk -F "/" '{print $NF}'|awk -F "_" '{print $2}')
+for cell_name in $(ls -lSr ${swc_path}/*swc |awk -F " " '{print $10}' |awk -F "/" '{print $NF}'|awk -F "_" '{print $2}')
 do
     qcfile=$(echo ${cur_path}/QC/separate_files/${brain_name}_${cell_type}_${cell_name}.processed.QC.txt)
     while [ ! -f ${qcfile} ]

@@ -22,8 +22,8 @@ if [ ! -e "temp_dir" ]; then mkdir temp_dir; fi
 # 17545_CPU
 echo "brain_name=17545
 cell_type=\"CPU\"
-swc_prefix=\"/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_\"
-soma_path=\"/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_soma_list/soma_list.ano.apo\"" >config.conf
+swc_prefix=\"../../SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_\"
+soma_path=\"../../SEUAllenJointDataCenter/finished_annotations/17545_soma_list/soma_list.ano.apo\"" >config.conf
 sh one_swc_pipeline.sh
 sh combine_qc.sh
 sh combine_feartures.sh
@@ -31,8 +31,8 @@ sh combine_feartures.sh
 # 17545_LGN
 echo "brain_name=17545
 cell_type=\"LGN\"
-swc_prefix=\"/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_\"
-soma_path=\"/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_soma_list/soma_list.ano.apo\"" >config.conf
+swc_prefix=\"../../SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_\"
+soma_path=\"../../SEUAllenJointDataCenter/finished_annotations/17545_soma_list/soma_list.ano.apo\"" >config.conf
 sh one_swc_pipeline.sh
 sh combine_qc.sh
 sh combine_feartures.sh
@@ -40,8 +40,8 @@ sh combine_feartures.sh
 # 17545_Thalamuscells
 echo "brain_name=17545
 cell_type=\"Thalamuscells\"
-swc_prefix=\"/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_\"
-soma_path=\"/Users/pengxie/Documents/SEUAllenJointDataCenter/finished_annotations/17545_soma_list/soma_list.ano.apo\"" >config.conf
+swc_prefix=\"../../SEUAllenJointDataCenter/finished_annotations/17545_Finished_Neurons/17545_\"
+soma_path=\"../../SEUAllenJointDataCenter/finished_annotations/17545_soma_list/soma_list.ano.apo\"" >config.conf
 sh one_swc_pipeline.sh
 sh combine_qc.sh
 sh combine_feartures.sh
