@@ -1,5 +1,5 @@
-ID	070	056	055	142	058	166	162	169
-Type	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells	Thalamuscells
-Percentage_lost(%)	0.000000	81.989798	0.423216	0.367834	2.845067	4.963869	0.722468	1.562886
-Number_single_trees	1	6	3	4	3	4	3	9
-Exist_duplicate_nodes	0	0	0	0	0	0	0	0
+ID	070\nThalamuscells	056\nThalamuscells	055\nThalamuscells	142\nThalamuscells	058\nThalamuscells	166\nThalamuscells	162\nThalamuscells	169\nThalamuscells
+Type	0.000000	81.989798	0.423216	0.367834	2.845067	4.963869	0.722468	1.562886
+Percentage_lost(%)	1	6	3	4	3	4	3	9
+Number_single_trees	0	0	0	0	0	0	0	0
+Exist_duplicate_nodes								
