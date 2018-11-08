@@ -1,2 +1,2 @@
-SWCFILE=17302_Thalamuscells_125.processed.swc
-APOFILE=17302_Thalamuscells_125.processed.apo
+APOFILE=17302_Thalamuscells_125.processed.ano.apo
+SWCFILE=17302_Thalamuscells_125.processed.ano.eswc
